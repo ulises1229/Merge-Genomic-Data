@@ -8,14 +8,15 @@ path = os.getcwd()
 for subdir, dirs, files in os.walk('./data'):
     print "All the data files are: " + str(files)
 
+dataPath = path + "/data/"
 columns = defaultdict(list)
 
 for file in files:
-    with open(path+"/data/"+file) as f:
-        reader = csv.DictReader(f)  # read rows into a dictionary format
-        for row in reader:  # read a row as {column1: value1, column2: value2,...}
-            for (k, v) in row.items():  # go over each column name and value
-                columns[k].append(v)  # append the value into the appropriate list
-                print columns[k]
-                # based on column name k
-#with open()
+    with open(dataPath + file) as csvfile:
+         spamreader = csv.reader(csvfile, delimiter=' ', quotechar='|')
+         for row in spamreader:
+             #print(', '.join(row))
+
+             if row[0][0] != 'G': #detect invalid rows
+                 print row
+    #with open()
