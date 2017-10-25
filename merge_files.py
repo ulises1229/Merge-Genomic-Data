@@ -5,10 +5,9 @@ import os
 path = os.getcwd()
 
 # Read all the files of current directory
-files = []
 for subdir, dirs, files in os.walk('./data'):
-    for file in files:
-      print file
+    print "All the data files are: " + str(files)
+
 
 
 #with open()
