@@ -22,7 +22,7 @@ for file in files:
              for row in spamreader:
                  #print(', '.join(row))
                  if row[0][0] == 'G': # Read only valid rows(
-                     if 'TR' in row[3]:
+                     if 'TR' in row[3]: # Validate that there are valid names
                          print row[3][0:4]
 
                      #if "GO-ID" in row[0]:
