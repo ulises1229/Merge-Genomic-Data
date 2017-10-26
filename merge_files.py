@@ -11,12 +11,28 @@ for subdir, dirs, files in os.walk('./data'):
 dataPath = path + "/data/"
 columns = defaultdict(list)
 
-for file in files:
-    with open(dataPath + file) as csvfile:
-         spamreader = csv.reader(csvfile, delimiter=' ', quotechar='|')
-         for row in spamreader:
-             #print(', '.join(row))
+# Define a list of lists for storing each element
 
-             if row[0][0] != 'G': #detect invalid rows
-                 print row
-    #with open()
+registers = {}
+for file in files:
+    # Read colors file
+    if "COLORS" in file:
+        with open(dataPath + file) as csvfile:
+             spamreader = csv.reader(csvfile, delimiter=',', quotechar='|')
+             for row in spamreader:
+                 #print(', '.join(row))
+                 if row[0][0] == 'G': # Read only valid rows(
+                     if 'TR' in row[3]:
+                         print "error"
+                         print row[3][0:4]
+
+                     #if "GO-ID" in row[0]:
+                      #   print row
+
+
+
+
+    # Read annot file
+    elif "ANNOT" in file:
+        print "Anot"
+        #with open()
