@@ -23,7 +23,6 @@ for file in files:
                  #print(', '.join(row))
                  if row[0][0] == 'G': # Read only valid rows(
                      if 'TR' in row[3]:
-                         print "error"
                          print row[3][0:4]
 
                      #if "GO-ID" in row[0]:
