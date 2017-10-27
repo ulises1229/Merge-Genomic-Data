@@ -94,7 +94,12 @@ def main():
             with open(dataPath + file) as csvfile:
                 reader = csv.reader(csvfile)
                 for row in reader:
-                    annotations[row[0]].append()
+                    annotations[row[0]] = {}
+                    for i in row[1]:
+                        annotations[row[0]][i] = {}
+                        
+
+
 
 if __name__ == "__main__":
     main()
