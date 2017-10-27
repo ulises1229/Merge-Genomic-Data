@@ -40,6 +40,7 @@ def main():
 
     # Structure for saving all the data
     colorRegisters = {}
+    annotations = {}
 
     # FIXME: ALWAYS READ FIRST ANNOT FILE
     for file in files:
@@ -49,13 +50,15 @@ def main():
             with open(dataPath + file) as csvfile:
                 reader = csv.reader(csvfile)
                 for row in reader:
-                    # Ignore first Line
-                    if count != 0:
-                        print row[2]
+                    if count != 0: # Ignore first Line
+                        colorRegisters[row[0]] = defaultdict(list)
+
+                        for i in row[3]: # Iterate over names to replace it for the names
+                            anotName = findElement(i, annotations)
+                            colorRegisters[row[0]][row[1]].append(anotName)
                         count = count +1
                         break
-                    else:
-                        # Just increment count for the first line
+                    else:  # Just increment count for the first line
                         count = count + 1
 
 
@@ -88,8 +91,10 @@ def main():
 
         # Read annot file
         elif "ANNOT" in file:
-            print "Anot"
-            # with open()
+            with open(dataPath + file) as csvfile:
+                reader = csv.reader(csvfile)
+                for row in reader:
+                    annotations[row[0]].append()
 
 if __name__ == "__main__":
     main()
