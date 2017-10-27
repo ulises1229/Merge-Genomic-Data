@@ -18,15 +18,17 @@ def readFiles():
         files.extend(filenames)
     return files;
 
-def findElement(annotationStructure, element):
+def findElement(annotations, element):
     '''
     This method searchs an element in a list of annotated elements ant returns the name
     :param annotationStructure:
     :param element:
     :return:
     '''
-
-    return "test"
+    if element in annotations.keys():
+        return annotations[element]
+    else:
+        return "f"
 
 
 def main():
@@ -94,12 +96,8 @@ def main():
             with open(dataPath + file) as csvfile:
                 reader = csv.reader(csvfile)
                 for row in reader:
-                    annotations[row[0]] = {}
                     for i in row[1]:
-                        annotations[row[0]][i] = {}
-                        
-
-
+                        annotations[i] = row[3]
 
 if __name__ == "__main__":
     main()
