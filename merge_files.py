@@ -18,12 +18,13 @@ for file in files:
     # Read colors file
     if "COLORS" in file:
         with open(dataPath + file) as csvfile:
-             spamreader = csv.reader(csvfile, delimiter=',', quotechar='|')
-             for row in spamreader:
-                 #print(', '.join(row))
-                 if row[0][0] == 'G': # Read only valid rows(
-                     if 'TR' in row[3]: # Validate that there are valid names
-                         print row[3][0:4]
+            spamreader = csv.reader(csvfile, delimiter=',', quotechar='|')
+            for row in spamreader:
+                #print(', '.join(row))
+                if row[0][0] == 'G': # Read only valid rows(
+                    if len(row) > 3:
+                    else:
+
 
                      #if "GO-ID" in row[0]:
                       #   print row
