@@ -18,36 +18,70 @@ def readFiles():
         files.extend(filenames)
     return files;
 
+def findElement(annotationStructure, element):
+    '''
+    This method searchs an element in a list of annotated elements ant returns the name
+    :param annotationStructure:
+    :param element:
+    :return:
+    '''
+
+    return "test"
+
 
 def main():
+
     path = os.getcwd()
-
-
-
     dataPath = path + "/data/"
-    columns = defaultdict(list)
 
-    # Define a list of lists for storing each element
+    files = readFiles()
 
-    colorRegisters = defaultdict(list)
+    #columns = defaultdict(list)
+
+    # Structure for saving all the data
+    colorRegisters = {}
 
     # FIXME: ALWAYS READ FIRST ANNOT FILE
     for file in files:
         # Read colors file
         if "COLORS" in file:
+            count = 0
             with open(dataPath + file) as csvfile:
-                spamreader = csv.reader(csvfile, delimiter=',', quotechar='|')
-                for row in spamreader:
-                    # print(', '.join(row))
-                    if row[0][0] == 'G':  # Read only valid rows(
-                        if len(row) > 3:
+                reader = csv.reader(csvfile)
+                for row in reader:
+                    # Ignore first Line
+                    if count != 0:
+                        print row[2]
+                        count = count +1
+                        break
+                    else:
+                        # Just increment count for the first line
+                        count = count + 1
 
-                        else:
-                            print "Error, There is something strange in this row" + row
+
+                '''if row[0][0] == 'G':  # Read only valid rows
+                                    if len(row) > 3:
+                                        colorRegisters[row[0]] = defaultdict(list)
+                                        for i in range (2,len(row)):
+                                            print str (count +1) + " Element to search: " + row[i]
+
+                                        # description = findElement(row[i])
+                                        # colorRegisters[row[0]][row[0]].append(description)
+                                        # first identify the sample and then save it
+
+                                        # colorRegisters[row[0]][row[1]].appen()
 
 
-                            # if "GO-ID" in row[0]:
-                            #   print row
+                                    else:
+                                        print "Error, There is something strange in this row, please clean your data" + row
+                                        print "Please, check register: " + str(count + 1)
+
+
+                                        # if "GO-ID" in row[0]:
+                                        #   print row'''
+
+
+
 
 
 
