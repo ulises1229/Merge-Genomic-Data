@@ -6,6 +6,10 @@ import csv
 import os
 from collections import defaultdict
 
+# Import for preprocessing files
+import xlrd
+import csv
+
 
 
 def readFiles():
@@ -54,13 +58,19 @@ def main():
                 for row in reader:
                     if count != 0: # Ignore first Line
                         colorRegisters[row[0]] = defaultdict(list)
-                        print row[3]
-                        for i in range(): # Iterate over test seqs and replace it for the long names
-                            #print i
-                            anotName = findElement(annotations, i)
+                        element = ''
+                        for i in row[2]: # Iterate over test seqs and replace it for the long names
+                            if i != ',': # split the line once a comma is detected
+                                element = element + i
+                            else:
+                                print element
+                            anotName = findElement(annotations, element)
                             if anotName != 'not found':
                                 #print str(i)+ ": " + str(anotName)
                                 colorRegisters[row[0]][row[1]].append(anotName)
+                                # TODO: write the information in a CSV file
+                            else:
+                                print "Register " + anotName + " not found"
                         count = count +1
                         break
                     else:  # Just increment count for the first line
