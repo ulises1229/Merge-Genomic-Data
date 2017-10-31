@@ -50,6 +50,7 @@ def main():
 
     # FIXME: ALWAYS READ FIRST ANNOT FILE
     for file in files:
+        # FIXME: PUT THIS INTO A METHOD
         # Read colors file
         if "COLORS" in file:
             count = 0
@@ -78,17 +79,22 @@ def main():
                         count = count + 1
 
 
-
+        #FIXME: PUT THIS INTO A METHOD
         # Read annot file
         elif "ANNOT" in file:
             with open(dataPath + file) as csvfile:
                 reader = csv.reader(csvfile)
                 for row in reader:
-                    print row[0]
-                    print len(row)
-                    #if row[0][0] != '':
-                    for i in row[1]:
-                        annotations[i] = row[3] # Store test seqs as key and name as value
+                    if row[1][0] == 'T': #FIXME: CHECK IF THIS IS VALID FOR ALL
+                        #print len(row)
+                        #if row[0][0] != '':
+                        element = ''
+                        for i in row[1]:
+                            # TODO: COMPLETE THIS PART
+                            annotations[i] = row[3] # Store test seqs as key and name as value
+                    else:
+                        print "error"
+
 
 if __name__ == "__main__":
     main()
