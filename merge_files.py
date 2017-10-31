@@ -89,9 +89,13 @@ def main():
                         #print len(row)
                         #if row[0][0] != '':
                         element = ''
-                        for i in row[1]:
-                            # TODO: COMPLETE THIS PART
-                            annotations[i] = row[3] # Store test seqs as key and name as value
+                        if ',' in row[1]:
+                            for i in row[1]:
+                                if i != ',':
+                                    element = element + i
+                                else:
+                                    element = ''
+                                    annotations[element] = row[3]  # Store test seqs as key and name as value
                     else:
                         print "error"
 
