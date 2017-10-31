@@ -59,44 +59,24 @@ def main():
                     if count != 0: # Ignore first Line
                         colorRegisters[row[0]] = defaultdict(list)
                         element = ''
+                        elementList = []
                         for i in row[2]: # Iterate over test seqs and replace it for the long names
                             if i != ',': # split the line once a comma is detected
                                 element = element + i
                             else:
-                                print element
-                            anotName = findElement(annotations, element)
-                            if anotName != 'not found':
-                                #print str(i)+ ": " + str(anotName)
-                                colorRegisters[row[0]][row[1]].append(anotName)
-                                # TODO: write the information in a CSV file
-                            else:
-                                print "Register " + anotName + " not found"
+                                anotName = findElement(annotations, element)
+                                if anotName != 'not found':
+                                    #print str(i)+ ": " + str(anotName)
+                                    colorRegisters[row[0]][row[1]].append(anotName)
+                                    # TODO: write the information in a CSV file
+                                else:
+                                    print "Register " + element + " not found"
+                                element = '' # reset element to an empty
                         count = count +1
                         break
                     else:  # Just increment count for the first line
                         count = count + 1
 
-
-                '''if row[0][0] == 'G':  # Read only valid rows
-                                    if len(row) > 3:
-                                        colorRegisters[row[0]] = defaultdict(list)
-                                        for i in range (2,len(row)):
-                                            print str (count +1) + " Element to search: " + row[i]
-
-                                        # description = findElement(row[i])
-                                        # colorRegisters[row[0]][row[0]].append(description)
-                                        # first identify the sample and then save it
-
-                                        # colorRegisters[row[0]][row[1]].appen()
-
-
-                                    else:
-                                        print "Error, There is something strange in this row, please clean your data" + row
-                                        print "Please, check register: " + str(count + 1)
-
-
-                                        # if "GO-ID" in row[0]:
-                                        #   print row'''
 
 
         # Read annot file
@@ -104,6 +84,9 @@ def main():
             with open(dataPath + file) as csvfile:
                 reader = csv.reader(csvfile)
                 for row in reader:
+                    print row[0]
+                    print len(row)
+                    #if row[0][0] != '':
                     for i in row[1]:
                         annotations[i] = row[3] # Store test seqs as key and name as value
 
