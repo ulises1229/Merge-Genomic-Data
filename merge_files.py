@@ -34,6 +34,28 @@ def findElement(annotations, element):
     else:
         return "not found"
 
+def readAnnotFile(dataPath, file):
+    annotations = {}
+    with open(dataPath + file) as csvfile:
+        reader = csv.reader(csvfile)
+        count = 0
+        for row in reader:
+            if row[1][0] == 'T':  # FIXME: CHECK IF THIS IS VALID FOR ALL
+                element = ''
+                if ',' in row[1]: # Detect if there exist more than one element
+                    for i in row[1]:
+                        if i != ',':
+                            element = element + i
+                        else:
+                            annotations[element] = row[3]  # Store test seqs as key and name as value
+                            element = ''
+                else: # Only one element is in the cell
+                    annotations[row[1]] = row[3]
+            else:
+                print "error no valid register on line"
+    print annotations
+    return annotations
+
 
 def main():
 
@@ -60,7 +82,6 @@ def main():
                     if count != 0: # Ignore first Line
                         colorRegisters[row[0]] = defaultdict(list)
                         element = ''
-                        elementList = []
                         for i in row[2]: # Iterate over test seqs and replace it for the long names
                             if i != ',': # split the line once a comma is detected
                                 element = element + i
@@ -72,32 +93,18 @@ def main():
                                     # TODO: write the information in a CSV file
                                 else:
                                     print "Register " + element + " not found"
+                                    #print element
                                 element = '' # reset element to an empty
-                        count = count +1
+                        count = count + 1
                         break
                     else:  # Just increment count for the first line
                         count = count + 1
 
 
-        #FIXME: PUT THIS INTO A METHOD
         # Read annot file
         elif "ANNOT" in file:
-            with open(dataPath + file) as csvfile:
-                reader = csv.reader(csvfile)
-                for row in reader:
-                    if row[1][0] == 'T': #FIXME: CHECK IF THIS IS VALID FOR ALL
-                        #print len(row)
-                        #if row[0][0] != '':
-                        element = ''
-                        if ',' in row[1]:
-                            for i in row[1]:
-                                if i != ',':
-                                    element = element + i
-                                else:
-                                    element = ''
-                                    annotations[element] = row[3]  # Store test seqs as key and name as value
-                    else:
-                        print "error"
+            annotations = readAnnotFile(dataPath, file)
+
 
 
 if __name__ == "__main__":
