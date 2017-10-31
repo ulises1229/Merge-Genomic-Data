@@ -29,6 +29,7 @@ def findElement(annotations, element):
     :param element:
     :return:
     '''
+    element = element.strip()
     if element in annotations.keys():
         return annotations[element]
     else:
@@ -47,13 +48,13 @@ def readAnnotFile(dataPath, file):
                         if i != ',':
                             element = element + i
                         else:
-                            annotations[element] = row[3]  # Store test seqs as key and name as value
+                            annotations[element] = row[3].strip()  # Store test seqs as key and name as value
                             element = ''
                 else: # Only one element is in the cell
-                    annotations[row[1]] = row[3]
+                    annotations[row[1]] = row[3].strip()
             else:
                 print "error no valid register on line"
-    print annotations
+    #print annotations
     return annotations
 
 
@@ -86,6 +87,7 @@ def main():
                             if i != ',': # split the line once a comma is detected
                                 element = element + i
                             else:
+                                element = element.strip() # Remove spaces at the beginning and at the end
                                 anotName = findElement(annotations, element)
                                 if anotName != 'not found':
                                     #print str(i)+ ": " + str(anotName)
