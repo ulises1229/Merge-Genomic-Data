@@ -86,11 +86,6 @@ def main():
                                         #   print row'''
 
 
-
-
-
-
-
         # Read annot file
         elif "ANNOT" in file:
             with open(dataPath + file) as csvfile:
