@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-__author__ = 'Ulises Olivares - uolivares@gmail.com'
+__author__ = 'Ulises Olivares - uolivares@enesmorelia.unam.mx'
 
 import csv
 import os
