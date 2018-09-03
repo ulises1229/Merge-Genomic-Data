@@ -41,9 +41,9 @@ def readAnnotFile(dataPath, file):
         reader = csv.reader(csvfile)
         count = 0
         for row in reader:
-            if row[1][0] == 'T':  # FIXME: CHECK IF THIS IS VALID FOR ALL
+            if row[1][0] == 'T':  # FIXME: CHECK IF THIS IS VALID FOR ALL ELEMENTS
                 element = ''
-                if ',' in row[1]: # Detect if there exist more than one element
+                if ',' in row[1]: # Detect if there is more than one element
                     for i in row[1]:
                         if i != ',':
                             element = element + i
@@ -67,7 +67,7 @@ def main():
 
     #columns = defaultdict(list)
 
-    # Structure for saving all the data
+    # Structures for saving all data
     colorRegisters = {}
     annotations = {}
 
