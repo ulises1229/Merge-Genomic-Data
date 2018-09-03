@@ -5,7 +5,8 @@
       <change beforePath="$PROJECT_DIR$/.idea/Merge-Genomic-Data.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Merge-Genomic-Data.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/FS_01_DOWN_ANNOT (1).xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/FS_01_DOWN_COLORS (1).xlsx" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/merge_files.py" beforeDir="false" afterPath="$PROJECT_DIR$/merge_files.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,7 +16,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/Merge_Genomic_Data$merge_files.coverage" NAME="merge_files Coverage Results" MODIFIED="1536001397385" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Merge_Genomic_Data$merge_files.coverage" NAME="merge_files Coverage Results" MODIFIED="1536001974541" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
@@ -40,6 +41,16 @@
           <entry key="Python" value="1" />
         </counts>
       </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="py" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Python" value="1" />
+        </counts>
+      </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
@@ -47,8 +58,11 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/merge_files.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="81" selection-start-line="81" selection-end-line="81" />
+            <state relative-caret-position="424">
+              <caret line="37" column="34" lean-forward="true" selection-start-line="37" selection-start-column="34" selection-end-line="37" selection-end-column="34" />
+              <folding>
+                <element signature="e#110#120#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -206,14 +220,15 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1280" y="23" width="1277" height="1339" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.40473628" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.2702486" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.39855653" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2702486" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39855653" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3295519" />
@@ -265,8 +280,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/merge_files.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="81" selection-start-line="81" selection-end-line="81" />
+        <state relative-caret-position="424">
+          <caret line="37" column="34" lean-forward="true" selection-start-line="37" selection-start-column="34" selection-end-line="37" selection-end-column="34" />
+          <folding>
+            <element signature="e#110#120#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
