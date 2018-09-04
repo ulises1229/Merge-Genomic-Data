@@ -2,12 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f8062240-6ae9-40ca-a02d-7fd386f845bf" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/Merge-Genomic-Data.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Merge-Genomic-Data.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/FS_01_DOWN_ANNOT (1).xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/FS_01_DOWN_COLORS (1).xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/FS_01_DOWN_ANNOT (1).csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/FS_01_DOWN_COLORS (1).csv" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/merge_files.py" beforeDir="false" afterPath="$PROJECT_DIR$/merge_files.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/original-datasets/FS_01_DOWN_ANNOT.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/original-datasets/FS_01_DOWN_COLORS.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/original-datasets/test.csv" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,7 +17,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/Merge_Genomic_Data$merge_files.coverage" NAME="merge_files Coverage Results" MODIFIED="1536001974541" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Merge_Genomic_Data$merge_files.coverage" NAME="merge_files Coverage Results" MODIFIED="1536024592600" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
@@ -25,30 +26,30 @@
     <session id="-1612663383">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
-          <entry key="project.open.time.0" value="1" />
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.0" value="2" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="1" />
+          <entry key="py" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="1" />
+          <entry key="Python" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="1" />
+          <entry key="py" value="1943" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="1" />
+          <entry key="Python" value="1943" />
         </counts>
       </usages-collector>
     </session>
@@ -58,20 +59,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/merge_files.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="424">
-              <caret line="37" column="34" lean-forward="true" selection-start-line="37" selection-start-column="34" selection-end-line="37" selection-end-column="34" />
-              <folding>
-                <element signature="e#110#120#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/os.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="241">
-              <caret line="292" selection-start-line="292" selection-end-line="292" />
+            <state relative-caret-position="370">
+              <caret line="92" column="34" selection-start-line="92" selection-start-column="34" selection-end-line="92" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -87,10 +76,12 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>print</find>
       <find>TR33683|c0_g1_i1</find>
       <find>TR37872|c1_g1_i2</find>
       <find>TR40193 UTP15|c1_g7_i9</find>
+      <find>print</find>
+      <find>S_01_DOWN_COLORS</find>
+      <find>DOWN_COLORS</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -110,26 +101,34 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1280" />
+    <option name="x" value="1069" />
     <option name="y" value="23" />
-    <option name="width" value="1277" />
-    <option name="height" value="1339" />
+    <option name="width" value="1487" />
+    <option name="height" value="1338" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
-      <flattenPackages />
-      <showMembers />
-      <showModules />
-      <showLibraryContents />
-      <hideEmptyPackages />
-      <abbreviatePackageNames />
-      <autoscrollToSource />
-      <autoscrollFromSource />
-      <sortByType />
-      <manualOrder />
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes />
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Merge-Genomic-Data" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Merge-Genomic-Data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Merge-Genomic-Data" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Merge-Genomic-Data" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -219,16 +218,15 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1280" y="23" width="1277" height="1339" extended-state="0" />
-    <editor active="true" />
+    <frame x="1069" y="23" width="1487" height="1338" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.40473628" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19930796" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2702486" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39855653" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2905297" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.36276084" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3295519" />
@@ -258,13 +256,28 @@
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/merge_files.py</url>
-          <line>62</line>
-          <option name="timeStamp" value="7" />
+          <line>56</line>
+          <option name="timeStamp" value="19" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/merge_files.py</url>
-          <line>81</line>
-          <option name="timeStamp" value="8" />
+          <line>51</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/merge_files.py</url>
+          <line>120</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/merge_files.py</url>
+          <line>135</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/merge_files.py</url>
+          <line>164</line>
+          <option name="timeStamp" value="28" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -273,18 +286,29 @@
     <entry file="file://$USER_HOME$/.PyCharmCE2016.3/system/python_stubs/-762174762/_collections.py" />
     <entry file="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/os.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="241">
-          <caret line="292" selection-start-line="292" selection-end-line="292" />
+        <state relative-caret-position="256">
+          <caret line="293" selection-start-line="293" selection-end-line="293" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/posixpath.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="316">
+          <caret line="69" selection-start-line="69" selection-end-line="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="1067" selection-start-line="1067" selection-end-line="1067" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/merge_files.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="424">
-          <caret line="37" column="34" lean-forward="true" selection-start-line="37" selection-start-column="34" selection-end-line="37" selection-end-column="34" />
-          <folding>
-            <element signature="e#110#120#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="370">
+          <caret line="92" column="34" selection-start-line="92" selection-start-column="34" selection-end-line="92" selection-end-column="34" />
         </state>
       </provider>
     </entry>

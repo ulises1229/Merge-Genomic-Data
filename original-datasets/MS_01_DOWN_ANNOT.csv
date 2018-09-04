@@ -1,0 +1,1138 @@
+﻿TR2332|c0_g1_i1,GO:0006796,low quality protein: uncharacterized protein loc103324604
+TR2332|c0_g1_i1,GO:0006464,low quality protein: uncharacterized protein loc103324604
+TR2332|c0_g1_i1,GO:0004672,low quality protein: uncharacterized protein loc103324604
+TR2332|c0_g1_i1,GO:0008037,low quality protein: uncharacterized protein loc103324604
+TR2332|c0_g1_i1,GO:0032550,low quality protein: uncharacterized protein loc103324604
+TR3687|c0_g1_i1,GO:0032550,atp-dependent dna helicase pif1
+TR3687|c0_g1_i1,GO:0043231,atp-dependent dna helicase pif1
+TR3687|c0_g1_i1,GO:0032392,atp-dependent dna helicase pif1
+TR3687|c0_g1_i1,GO:0004386,atp-dependent dna helicase pif1
+TR4799|c0_g2_i1,GO:0010468,mads-box transcription factor
+TR4799|c0_g2_i1,GO:0003676,mads-box transcription factor
+TR4799|c0_g2_i1,GO:0001071,mads-box transcription factor
+TR4799|c0_g2_i1,GO:0034645,mads-box transcription factor
+TR4799|c0_g2_i1,GO:0005515,mads-box transcription factor
+TR4799|c0_g2_i1,GO:0043231,mads-box transcription factor
+TR5855|c0_g1_i1,GO:0016020,casp protein
+TR8642|c0_g2_i1,GO:0046914,early nodulin-like protein 11
+TR10391|c0_g2_i1,GO:0006464,cyclin-dependent kinase b2-2
+TR10391|c0_g2_i1,GO:0004674,cyclin-dependent kinase b2-2
+TR10391|c0_g2_i1,GO:0032550,cyclin-dependent kinase b2-2
+TR11732|c0_g1_i1,GO:0005488,zinc finger mym-type protein 1-like
+TR13839|c0_g1_i2,GO:0007017,uncharacterized protein loc103324040
+TR13839|c0_g1_i2,GO:1901990,uncharacterized protein loc103324040
+TR13839|c0_g1_i2,GO:0043231,uncharacterized protein loc103324040
+TR13839|c0_g1_i2,GO:0006305,uncharacterized protein loc103324040
+TR13839|c0_g1_i2,GO:0048580,uncharacterized protein loc103324040
+TR13839|c0_g1_i2,GO:0008204,uncharacterized protein loc103324040
+TR13839|c0_g1_i2,GO:0048449,uncharacterized protein loc103324040
+TR13839|c0_g1_i2,GO:0006342,uncharacterized protein loc103324040
+TR13839|c0_g1_i2,GO:0051052,uncharacterized protein loc103324040
+TR13839|c0_g1_i2,GO:0016863,uncharacterized protein loc103324040
+TR13839|c0_g1_i2,GO:0034968,uncharacterized protein loc103324040
+TR13839|c0_g1_i2,GO:0010876,uncharacterized protein loc103324040
+TR13839|c0_g1_i2,GO:1902410,uncharacterized protein loc103324040
+TR14027|c0_g2_i1,GO:0006796,g-type lectin s-receptor-like serine threonine-protein kinase rks1
+TR14027|c0_g2_i1,GO:0006464,g-type lectin s-receptor-like serine threonine-protein kinase rks1
+TR14027|c0_g2_i1,GO:0004672,g-type lectin s-receptor-like serine threonine-protein kinase rks1
+TR14027|c0_g2_i1,GO:0008037,g-type lectin s-receptor-like serine threonine-protein kinase rks1
+TR14027|c0_g2_i1,GO:0032550,g-type lectin s-receptor-like serine threonine-protein kinase rks1
+TR14042|c0_g1_i1,GO:0044699,uncharacterized protein at5g39865-like
+TR14135|c0_g1_i1,GO:0032550,rac-like gtp-binding protein arac7-like
+TR14135|c0_g1_i1,GO:0035556,rac-like gtp-binding protein arac7-like
+TR14135|c0_g1_i1,GO:0030036,rac-like gtp-binding protein arac7-like
+TR14135|c0_g1_i1,GO:0009755,rac-like gtp-binding protein arac7-like
+TR14135|c0_g1_i1,GO:0044464,rac-like gtp-binding protein arac7-like
+TR14135|c0_g1_i1,GO:0016020,rac-like gtp-binding protein arac7-like
+TR14271|c0_g1_i1,GO:0046914,uncharacterized protein loc103343731
+TR14271|c0_g1_i1,GO:0097159,uncharacterized protein loc103343731
+TR14271|c0_g1_i1,GO:0006259,uncharacterized protein loc103343731
+TR14297|c0_g1_i1,GO:0016301,"hypothetical protein POPTR_0004s02790g, partial [Populus trichocarpa]"
+TR14297|c0_g1_i1,GO:0009987,"hypothetical protein POPTR_0004s02790g, partial [Populus trichocarpa]"
+TR14886|c0_g1_i1,GO:0034645,60s ribosomal protein l3-like
+TR14886|c0_g1_i1,GO:0030529,60s ribosomal protein l3-like
+TR14886|c0_g1_i1,GO:0005198,60s ribosomal protein l3-like
+TR16338|c0_g1_i1,GO:0003676,replication factor c subunit 3-like
+TR16338|c0_g1_i1,GO:0006259,replication factor c subunit 3-like
+TR18789|c0_g1_i1,GO:0043231,scarecrow-like protein 28
+TR18789|c0_g1_i1,GO:0034645,scarecrow-like protein 28
+TR18789|c0_g1_i1,GO:0010468,scarecrow-like protein 28
+TR18789|c0_g1_i1,GO:0048449,scarecrow-like protein 28
+TR18789|c0_g1_i1,GO:0001071,scarecrow-like protein 28
+TR18789|c0_g1_i1,GO:1902410,scarecrow-like protein 28
+TR18789|c0_g1_i1,GO:0007017,scarecrow-like protein 28
+TR20819|c0_g1_i1,GO:0006631,acyl carrier protein chloroplastic
+TR20841|c0_g1_i2,GO:0009532,glutathione s-transferase-like
+TR20841|c0_g1_i2,GO:0042221,glutathione s-transferase-like
+TR20841|c0_g1_i2,GO:0009526,glutathione s-transferase-like
+TR20841|c0_g1_i2,GO:0016765,glutathione s-transferase-like
+TR20841|c0_g1_i2,GO:0009404,glutathione s-transferase-like
+TR20841|c0_g1_i2,GO:0031090,glutathione s-transferase-like
+TR20841|c0_g1_i2,GO:0016209,glutathione s-transferase-like
+TR20841|c0_g1_i2,GO:0072341,glutathione s-transferase-like
+TR21458|c0_g1_i1,GO:0046914,zinc finger family protein
+TR22413|c0_g1_i2,GO:0003676,uncharacterized protein loc100257749
+TR22862|c0_g1_i1,GO:0036094,disease resistance gene nbs-lrr family protein
+TR22862|c0_g1_i1,GO:1901363,disease resistance gene nbs-lrr family protein
+TR22862|c0_g1_i1,GO:0097159,disease resistance gene nbs-lrr family protein
+TR22953|c0_g1_i1,GO:0071555,expansin 3
+TR22953|c0_g1_i1,GO:0030312,expansin 3
+TR23128|c0_g1_i1,GO:0006259,dna polymerase zeta catalytic subunit-like isoform x3
+TR23128|c0_g1_i1,GO:0003676,dna polymerase zeta catalytic subunit-like isoform x3
+TR23128|c0_g1_i1,GO:0036094,dna polymerase zeta catalytic subunit-like isoform x3
+TR23128|c0_g1_i1,GO:0034061,dna polymerase zeta catalytic subunit-like isoform x3
+TR24326|c1_g1_i2,GO:0004553,chitinase-like protein 2
+TR24326|c1_g1_i2,GO:0044036,chitinase-like protein 2
+TR24326|c1_g1_i2,GO:0044238,chitinase-like protein 2
+TR24326|c1_g1_i2,GO:0006026,chitinase-like protein 2
+TR24812|c0_g2_i1,GO:0034645,transcriptional factor
+TR24812|c0_g2_i1,GO:0010467,transcriptional factor
+TR24834|c0_g1_i2,GO:0032550,tmv resistance protein n-like
+TR24834|c0_g1_i2,GO:0050794,tmv resistance protein n-like
+TR24901|c0_g1_i1,GO:0032550,disease resistance gene nbs-lrr family partial
+TR24901|c0_g2_i1,GO:0032550,disease resistance protein at4g27190-like
+TR24926|c0_g1_i1,GO:0044238,glucan endo- -beta-glucosidase
+TR24926|c0_g1_i1,GO:0008422,glucan endo- -beta-glucosidase
+TR25243|c0_g1_i1,GO:0036094,"phosphoprotein phosphatase, putative [Ricinus communis]"
+TR25243|c0_g1_i1,GO:1901363,"phosphoprotein phosphatase, putative [Ricinus communis]"
+TR25243|c0_g1_i1,GO:0097159,"phosphoprotein phosphatase, putative [Ricinus communis]"
+TR25331|c0_g1_i1,GO:0016740,anthocyanidin 3-o-glucosyltransferase 5-like
+TR25411|c0_g2_i1,GO:0015031,vacuolar protein sorting-associated protein 8 homolog isoform x1
+TR25411|c0_g2_i1,GO:0046914,vacuolar protein sorting-associated protein 8 homolog isoform x1
+TR25446|c2_g1_i1,GO:0009696,2-oxoglutarate and fe -dependent oxygenase superfamily protein
+TR25446|c2_g1_i1,GO:0009620,2-oxoglutarate and fe -dependent oxygenase superfamily protein
+TR25446|c2_g1_i1,GO:0009755,2-oxoglutarate and fe -dependent oxygenase superfamily protein
+TR25446|c2_g1_i1,GO:0009617,2-oxoglutarate and fe -dependent oxygenase superfamily protein
+TR25446|c2_g1_i1,GO:0042743,2-oxoglutarate and fe -dependent oxygenase superfamily protein
+TR25446|c2_g1_i1,GO:0006605,2-oxoglutarate and fe -dependent oxygenase superfamily protein
+TR25446|c2_g1_i1,GO:0043067,2-oxoglutarate and fe -dependent oxygenase superfamily protein
+TR25446|c2_g1_i1,GO:0016705,2-oxoglutarate and fe -dependent oxygenase superfamily protein
+TR25446|c2_g1_i1,GO:0010243,2-oxoglutarate and fe -dependent oxygenase superfamily protein
+TR25446|c2_g1_i1,GO:0043169,2-oxoglutarate and fe -dependent oxygenase superfamily protein
+TR25446|c2_g1_i1,GO:0009814,2-oxoglutarate and fe -dependent oxygenase superfamily protein
+TR25446|c2_g1_i1,GO:0033554,2-oxoglutarate and fe -dependent oxygenase superfamily protein
+TR25446|c2_g1_i1,GO:0009863,2-oxoglutarate and fe -dependent oxygenase superfamily protein
+TR25446|c2_g1_i1,GO:0035556,2-oxoglutarate and fe -dependent oxygenase superfamily protein
+TR25714|c0_g2_i1,GO:0005515,transcription factor bhlh61 isoform 1
+TR25714|c0_g2_i1,GO:0031406,transcription factor bhlh61 isoform 1
+TR25716|c0_g1_i2,GO:0005488,basic helix-loop-helix dna-binding superfamily
+TR25765|c0_g2_i1,GO:0071229,hypothetical protein EUTSA_v10000035mg [Eutrema salsugineum]
+TR25765|c0_g2_i1,GO:0051707,hypothetical protein EUTSA_v10000035mg [Eutrema salsugineum]
+TR25765|c0_g2_i1,GO:0045087,hypothetical protein EUTSA_v10000035mg [Eutrema salsugineum]
+TR25765|c0_g2_i1,GO:1901701,hypothetical protein EUTSA_v10000035mg [Eutrema salsugineum]
+TR25765|c0_g2_i1,GO:0014070,hypothetical protein EUTSA_v10000035mg [Eutrema salsugineum]
+TR25765|c0_g2_i1,GO:0009755,hypothetical protein EUTSA_v10000035mg [Eutrema salsugineum]
+TR25765|c0_g2_i1,GO:0043067,hypothetical protein EUTSA_v10000035mg [Eutrema salsugineum]
+TR25765|c0_g2_i1,GO:0031347,hypothetical protein EUTSA_v10000035mg [Eutrema salsugineum]
+TR25814|c0_g1_i1,GO:0032550,disease resistance-like protein
+TR25855|c0_g1_i2,GO:0046872,zinc finger family
+TR25902|c0_g1_i2,GO:0036094,late blight resistance protein r1-
+TR25902|c0_g1_i2,GO:1901363,late blight resistance protein r1-
+TR25902|c0_g1_i2,GO:0097159,late blight resistance protein r1-
+TR25978|c0_g1_i1,GO:0004721,uncharacterized protein loc103321834
+TR25978|c0_g1_i1,GO:0006464,uncharacterized protein loc103321834
+TR25978|c0_g1_i1,GO:0043169,uncharacterized protein loc103321834
+TR25992|c0_g1_i1,GO:0006139,dna polymerase zeta catalytic subunit-like isoform x1
+TR25992|c0_g1_i1,GO:0016740,dna polymerase zeta catalytic subunit-like isoform x1
+TR25992|c0_g1_i1,GO:1901363,dna polymerase zeta catalytic subunit-like isoform x1
+TR25992|c0_g1_i1,GO:0097159,dna polymerase zeta catalytic subunit-like isoform x1
+TR26271|c0_g1_i1,GO:0007017,"Gb:AAF35421.1, putative [Theobroma cacao]"
+TR26271|c0_g1_i1,GO:0000725,"Gb:AAF35421.1, putative [Theobroma cacao]"
+TR26271|c0_g1_i1,GO:0006305,"Gb:AAF35421.1, putative [Theobroma cacao]"
+TR26271|c0_g1_i1,GO:0048449,"Gb:AAF35421.1, putative [Theobroma cacao]"
+TR26271|c0_g1_i1,GO:0006342,"Gb:AAF35421.1, putative [Theobroma cacao]"
+TR26271|c0_g1_i1,GO:0031497,"Gb:AAF35421.1, putative [Theobroma cacao]"
+TR26271|c0_g1_i1,GO:0051726,"Gb:AAF35421.1, putative [Theobroma cacao]"
+TR26271|c0_g1_i1,GO:0034968,"Gb:AAF35421.1, putative [Theobroma cacao]"
+TR26271|c0_g1_i1,GO:1902410,"Gb:AAF35421.1, putative [Theobroma cacao]"
+TR26353|c0_g2_i1,GO:0006464,g-type lectin s-receptor-like serine threonine-protein kinase at1g11410
+TR26353|c0_g2_i1,GO:0004672,g-type lectin s-receptor-like serine threonine-protein kinase at1g11410
+TR26353|c0_g2_i1,GO:0008037,g-type lectin s-receptor-like serine threonine-protein kinase at1g11410
+TR26353|c0_g2_i1,GO:0032550,g-type lectin s-receptor-like serine threonine-protein kinase at1g11410
+TR26373|c0_g1_i1,GO:0016787,gdsl esterase lipase at5g33370-like
+TR26373|c0_g1_i1,GO:0044238,gdsl esterase lipase at5g33370-like
+TR26381|c0_g1_i1,GO:0043169,homocysteine s-methyltransferase 1
+TR26381|c0_g1_i1,GO:0000097,homocysteine s-methyltransferase 1
+TR26381|c0_g1_i1,GO:0008172,homocysteine s-methyltransferase 1
+TR26397|c0_g1_i1,GO:0003676,lupus la
+TR26397|c0_g1_i1,GO:0036094,lupus la
+TR26397|c0_g1_i1,GO:0043231,lupus la
+TR26397|c0_g1_i1,GO:0016070,lupus la
+TR26397|c0_g1_i1,GO:0019028,lupus la
+TR26397|c0_g1_i1,GO:0032991,lupus la
+TR26451|c0_g1_i1,GO:0043231,#NAME?
+TR26451|c0_g1_i1,GO:0044267,#NAME?
+TR26451|c0_g1_i1,GO:0032550,#NAME?
+TR26548|c0_g1_i1,GO:0048449,high mobility group b protein 6
+TR26548|c0_g1_i1,GO:0050794,high mobility group b protein 6
+TR26567|c0_g1_i1,GO:0005576,disease resistance-responsive (dirigent-like protein) family protein
+TR26702|c2_g1_i1,GO:0051234,cral-trio domain-containing
+TR26702|c2_g1_i1,GO:0009699,cral-trio domain-containing
+TR26702|c2_g1_i1,GO:0006950,cral-trio domain-containing
+TR26702|c2_g1_i1,GO:0044464,cral-trio domain-containing
+TR26829|c0_g1_i1,GO:0016787,serine-threonine protein plant-
+TR26829|c0_g1_i1,GO:0006796,serine-threonine protein plant-
+TR26861|c0_g1_i1,GO:0044238,gdsl esterase lipase exl3
+TR26861|c0_g1_i1,GO:0016788,gdsl esterase lipase exl3
+TR27019|c1_g1_i2,GO:0016757,udp-glycosyltransferase superfamily protein
+TR27038|c0_g1_i1,GO:0032550,disease resistance rpp13-like protein 1
+TR27185|c0_g1_i1,GO:0005515,transcription factor bhlh61 isoform 1
+TR27194|c0_g1_i1,GO:0005488,chromosome-associated kinesin
+TR27226|c0_g2_i1,GO:0036094,uncharacterized protein loc100852821
+TR27226|c0_g2_i1,GO:0097159,uncharacterized protein loc100852821
+TR27226|c0_g2_i1,GO:1901363,uncharacterized protein loc100852821
+TR27229|c1_g2_i1,GO:0005088,rho guanyl-nucleotide exchange factor 3 isoform 1
+TR27229|c1_g2_i1,GO:0032319,rho guanyl-nucleotide exchange factor 3 isoform 1
+TR27405|c0_g1_i1,GO:0043229,shugoshin-1 isoform x2
+TR27579|c0_g1_i1,GO:0044238,glucan endo- -beta-
+TR27579|c0_g1_i1,GO:0004553,glucan endo- -beta-
+TR27685|c1_g1_i3,GO:0044710,salutaridine reductase-like
+TR27685|c1_g1_i3,GO:0003824,salutaridine reductase-like
+TR27857|c0_g1_i1,GO:0006796,serine threonine-kinase ht1-like protein
+TR27857|c0_g1_i1,GO:0004672,serine threonine-kinase ht1-like protein
+TR27950|c0_g1_i1,GO:0032550,nbs-containing resistance-like protein
+TR28030|c0_g1_i1,GO:0006950,glutathione peroxidase 4
+TR28030|c0_g1_i1,GO:0044710,glutathione peroxidase 4
+TR28030|c0_g1_i1,GO:0004601,glutathione peroxidase 4
+TR28068|c0_g1_i2,GO:0044710,enone oxidoreductase
+TR28068|c0_g1_i2,GO:0046914,enone oxidoreductase
+TR28068|c0_g1_i2,GO:0006725,enone oxidoreductase
+TR28068|c0_g1_i2,GO:0016655,enone oxidoreductase
+TR28256|c1_g1_i1,GO:0005618,subtilisin-like protease
+TR28256|c1_g1_i1,GO:0000097,subtilisin-like protease
+TR28256|c1_g1_i1,GO:0043231,subtilisin-like protease
+TR28256|c1_g1_i1,GO:0004175,subtilisin-like protease
+TR28256|c1_g1_i1,GO:0071555,subtilisin-like protease
+TR28256|c1_g1_i1,GO:0008380,subtilisin-like protease
+TR28256|c1_g1_i1,GO:0009892,subtilisin-like protease
+TR28256|c1_g1_i1,GO:0010073,subtilisin-like protease
+TR28256|c1_g1_i1,GO:0019538,subtilisin-like protease
+TR28256|c1_g1_i1,GO:0005911,subtilisin-like protease
+TR28256|c1_g1_i1,GO:0005515,subtilisin-like protease
+TR28256|c1_g1_i1,GO:0042546,subtilisin-like protease
+TR28256|c1_g1_i1,GO:0003006,subtilisin-like protease
+TR28329|c0_g1_i1,GO:0006637,syntaxin-related protein knolle
+TR28329|c0_g1_i1,GO:0006461,syntaxin-related protein knolle
+TR28329|c0_g1_i1,GO:0014070,syntaxin-related protein knolle
+TR28329|c0_g1_i1,GO:0005911,syntaxin-related protein knolle
+TR28329|c0_g1_i1,GO:1902410,syntaxin-related protein knolle
+TR28329|c0_g1_i1,GO:0005515,syntaxin-related protein knolle
+TR28329|c0_g1_i1,GO:0044425,syntaxin-related protein knolle
+TR28329|c0_g1_i1,GO:0044444,syntaxin-related protein knolle
+TR28329|c0_g1_i1,GO:0007017,syntaxin-related protein knolle
+TR28329|c0_g1_i1,GO:0006694,syntaxin-related protein knolle
+TR28329|c0_g1_i1,GO:0015031,syntaxin-related protein knolle
+TR28453|c0_g1_i2,GO:0006796,lrr-kinase family protein
+TR28453|c0_g1_i2,GO:0016301,lrr-kinase family protein
+TR28453|c0_g1_i2,GO:0006464,lrr-kinase family protein
+TR28453|c0_g1_i2,GO:0044425,lrr-kinase family protein
+TR28453|c0_g1_i2,GO:0032550,lrr-kinase family protein
+TR28879|c0_g1_i1,GO:0016462,histidine biosynthesis hisie protein
+TR28879|c0_g1_i1,GO:0019238,histidine biosynthesis hisie protein
+TR28879|c0_g1_i1,GO:0006547,histidine biosynthesis hisie protein
+TR28888|c0_g1_i1,GO:0044710,nad -linked oxidoreductase superfamily protein
+TR28888|c0_g1_i1,GO:0003824,nad -linked oxidoreductase superfamily protein
+TR29137|c2_g1_i1,GO:0008104,vacuolar protein sorting-associated protein 2 homolog 2-like
+TR29155|c0_g1_i1,GO:0016787,gdsl-motif lipase hydrolase family protein
+TR29155|c0_g1_i1,GO:0006629,gdsl-motif lipase hydrolase family protein
+TR29193|c0_g1_i1,GO:0015291,mate efflux family protein
+TR29193|c0_g1_i1,GO:0044425,mate efflux family protein
+TR29193|c0_g1_i1,GO:0015893,mate efflux family protein
+TR29193|c0_g1_i1,GO:0044763,mate efflux family protein
+TR29205|c1_g1_i1,GO:0046914,aminopeptidase m1-like
+TR29205|c1_g1_i1,GO:0019538,aminopeptidase m1-like
+TR29205|c1_g1_i1,GO:0008238,aminopeptidase m1-like
+TR29297|c0_g1_i1,GO:0006461,protein fam179b-like
+TR29297|c0_g1_i1,GO:0007017,protein fam179b-like
+TR29297|c0_g1_i1,GO:1902410,protein fam179b-like
+TR29297|c0_g1_i1,GO:0014070,protein fam179b-like
+TR29345|c0_g1_i2,GO:0016740,calcium-dependent lipid-binding ( domain) plant phosphoribosyltransferase family protein isoform 1
+TR29345|c0_g1_i2,GO:0005911,calcium-dependent lipid-binding ( domain) plant phosphoribosyltransferase family protein isoform 1
+TR29461|c0_g1_i2,GO:0003824,rs21- ntp pyrophosphohydrolase catalytic
+TR29499|c0_g2_i1,GO:0016787,gdsl esterase lipase at5g45950
+TR29499|c0_g2_i1,GO:0006631,gdsl esterase lipase at5g45950
+TR29499|c0_g2_i1,GO:0044767,gdsl esterase lipase at5g45950
+TR29503|c0_g2_i1,GO:0003676,homeobox protein 31
+TR29564|c0_g1_i1,GO:0046914,dhhc-type zinc finger family protein isoform 1
+TR29564|c0_g1_i1,GO:0008152,dhhc-type zinc finger family protein isoform 1
+TR29564|c0_g1_i1,GO:0016409,dhhc-type zinc finger family protein isoform 1
+TR29564|c0_g1_i1,GO:0044425,dhhc-type zinc finger family protein isoform 1
+TR29624|c0_g1_i1,GO:0004721,phosphatase 2c family protein isoform 1
+TR29624|c0_g1_i1,GO:0006464,phosphatase 2c family protein isoform 1
+TR29624|c0_g1_i1,GO:0043169,phosphatase 2c family protein isoform 1
+TR29658|c0_g1_i1,GO:0019538,serine carboxypeptidase-like 35
+TR29658|c0_g1_i1,GO:0004180,serine carboxypeptidase-like 35
+TR29917|c0_g2_i2,GO:0044238,plc-like phosphodiesterase superfamily protein
+TR29917|c0_g2_i2,GO:0042578,plc-like phosphodiesterase superfamily protein
+TR30123|c0_g1_i2,GO:0043234,atp binding microtubule motor family isoform 2
+TR30123|c0_g1_i2,GO:0015630,atp binding microtubule motor family isoform 2
+TR30123|c0_g1_i2,GO:0044763,atp binding microtubule motor family isoform 2
+TR30123|c0_g1_i2,GO:0097159,atp binding microtubule motor family isoform 2
+TR30123|c0_g1_i2,GO:0008152,atp binding microtubule motor family isoform 2
+TR30123|c0_g1_i2,GO:1901363,atp binding microtubule motor family isoform 2
+TR30123|c0_g1_i2,GO:0036094,atp binding microtubule motor family isoform 2
+TR30123|c0_g1_i2,GO:0044430,atp binding microtubule motor family isoform 2
+TR30137|c0_g1_i1,GO:0016772,hypothetical protein POPTR_0008s16190g [Populus trichocarpa]
+TR30137|c0_g1_i1,GO:0032550,hypothetical protein POPTR_0008s16190g [Populus trichocarpa]
+TR30137|c0_g1_i1,GO:0006796,hypothetical protein POPTR_0008s16190g [Populus trichocarpa]
+TR30317|c0_g2_i1,GO:0032550,organic cation
+TR30317|c0_g2_i1,GO:0000325,organic cation
+TR30317|c0_g2_i1,GO:0009062,organic cation
+TR30317|c0_g2_i1,GO:0014070,organic cation
+TR30317|c0_g2_i1,GO:0015698,organic cation
+TR30317|c0_g2_i1,GO:0044425,organic cation
+TR30317|c0_g2_i1,GO:0009404,organic cation
+TR30317|c0_g2_i1,GO:0031090,organic cation
+TR30317|c0_g2_i1,GO:0005215,organic cation
+TR30317|c0_g2_i1,GO:0009072,organic cation
+TR30317|c0_g2_i1,GO:0044434,organic cation
+TR30370|c0_g1_i1,GO:0043234,kinesin-like protein kif22-b
+TR30370|c0_g1_i1,GO:0015630,kinesin-like protein kif22-b
+TR30370|c0_g1_i1,GO:0044763,kinesin-like protein kif22-b
+TR30370|c0_g1_i1,GO:0097159,kinesin-like protein kif22-b
+TR30370|c0_g1_i1,GO:1901363,kinesin-like protein kif22-b
+TR30370|c0_g1_i1,GO:0036094,kinesin-like protein kif22-b
+TR30370|c0_g1_i1,GO:0044430,kinesin-like protein kif22-b
+TR30386|c0_g1_i5,GO:0016843,protein yls2-like isoform x1
+TR30386|c0_g1_i5,GO:0008152,protein yls2-like isoform x1
+TR30494|c0_g1_i1,GO:0044238,gdsl esterase lipase exl3-like
+TR30494|c0_g1_i1,GO:0016788,gdsl esterase lipase exl3-like
+TR30536|c0_g1_i1,GO:0044425,auxin efflux carrier family protein isoform 2
+TR30536|c0_g1_i1,GO:0044763,auxin efflux carrier family protein isoform 2
+TR30539|c1_g2_i1,GO:0008152,growth-regulating factor 5 isoform 2
+TR30549|c0_g1_i1,GO:0032550,atp binding microtubule motor family protein isoform 1
+TR30549|c0_g1_i1,GO:0005875,atp binding microtubule motor family protein isoform 1
+TR30549|c0_g1_i1,GO:0043231,atp binding microtubule motor family protein isoform 1
+TR30549|c0_g1_i1,GO:0007349,atp binding microtubule motor family protein isoform 1
+TR30549|c0_g1_i1,GO:0048229,atp binding microtubule motor family protein isoform 1
+TR30549|c0_g1_i1,GO:0014070,atp binding microtubule motor family protein isoform 1
+TR30549|c0_g1_i1,GO:0016570,atp binding microtubule motor family protein isoform 1
+TR30549|c0_g1_i1,GO:0003774,atp binding microtubule motor family protein isoform 1
+TR30549|c0_g1_i1,GO:1902410,atp binding microtubule motor family protein isoform 1
+TR30549|c0_g1_i1,GO:0044444,atp binding microtubule motor family protein isoform 1
+TR30549|c0_g1_i1,GO:0007017,atp binding microtubule motor family protein isoform 1
+TR30549|c0_g1_i1,GO:0015631,atp binding microtubule motor family protein isoform 1
+TR30563|c0_g1_i1,GO:0006464,probable lrr receptor-like serine threonine-protein kinase at5g48740-like
+TR30563|c0_g1_i1,GO:0004672,probable lrr receptor-like serine threonine-protein kinase at5g48740-like
+TR30563|c0_g1_i1,GO:0032550,probable lrr receptor-like serine threonine-protein kinase at5g48740-like
+TR30566|c0_g1_i5,GO:0044260,forkhead-associated domain-containing
+TR30566|c0_g1_i5,GO:0016458,forkhead-associated domain-containing
+TR30566|c0_g1_i5,GO:0007275,forkhead-associated domain-containing
+TR30566|c0_g1_i5,GO:0090304,forkhead-associated domain-containing
+TR30566|c0_g1_i5,GO:0048856,forkhead-associated domain-containing
+TR30566|c0_g1_i5,GO:0044710,forkhead-associated domain-containing
+TR30566|c0_g1_i5,GO:0040029,forkhead-associated domain-containing
+TR30751|c0_g1_i6,GO:0004888,glutamate receptor -like
+TR30751|c0_g1_i6,GO:0007215,glutamate receptor -like
+TR30751|c0_g1_i6,GO:0006811,glutamate receptor -like
+TR30751|c0_g1_i6,GO:0044425,glutamate receptor -like
+TR30751|c0_g1_i6,GO:0005231,glutamate receptor -like
+TR30783|c0_g1_i1,GO:0044425,uncharacterized protein loc100779100
+TR30783|c0_g1_i1,GO:0051234,uncharacterized protein loc100779100
+TR30783|c0_g1_i1,GO:0044464,uncharacterized protein loc100779100
+TR30846|c0_g1_i1,GO:0003824,bifunctional epoxide hydrolase 2-like
+TR30848|c0_g1_i1,GO:0017111,abc transporter b family member 2-like
+TR30848|c0_g1_i1,GO:0032550,abc transporter b family member 2-like
+TR30848|c0_g1_i1,GO:0009154,abc transporter b family member 2-like
+TR30848|c0_g1_i1,GO:0044425,abc transporter b family member 2-like
+TR30848|c0_g1_i1,GO:0051234,abc transporter b family member 2-like
+TR30848|c0_g1_i1,GO:0015405,abc transporter b family member 2-like
+TR30893|c0_g1_i1,GO:0000003,beta-expansin 3
+TR30988|c2_g2_i1,GO:0043231,auxin-responsive protein
+TR30988|c2_g2_i1,GO:0034645,auxin-responsive protein
+TR30988|c2_g2_i1,GO:0010468,auxin-responsive protein
+TR30988|c2_g2_i1,GO:0009755,auxin-responsive protein
+TR30988|c2_g2_i1,GO:0005515,auxin-responsive protein
+TR31019|c2_g1_i1,GO:0060918,leucine-rich repeat protein kinase family protein
+TR31019|c2_g1_i1,GO:0006073,leucine-rich repeat protein kinase family protein
+TR31019|c2_g1_i1,GO:0032550,leucine-rich repeat protein kinase family protein
+TR31019|c2_g1_i1,GO:0071555,leucine-rich repeat protein kinase family protein
+TR31019|c2_g1_i1,GO:0032535,leucine-rich repeat protein kinase family protein
+TR31019|c2_g1_i1,GO:0006464,leucine-rich repeat protein kinase family protein
+TR31019|c2_g1_i1,GO:0051301,leucine-rich repeat protein kinase family protein
+TR31019|c2_g1_i1,GO:0010073,leucine-rich repeat protein kinase family protein
+TR31019|c2_g1_i1,GO:0044425,leucine-rich repeat protein kinase family protein
+TR31019|c2_g1_i1,GO:0006796,leucine-rich repeat protein kinase family protein
+TR31019|c2_g1_i1,GO:0016301,leucine-rich repeat protein kinase family protein
+TR31019|c2_g1_i1,GO:0009653,leucine-rich repeat protein kinase family protein
+TR31019|c2_g1_i1,GO:0042546,leucine-rich repeat protein kinase family protein
+TR31019|c2_g1_i1,GO:0003006,leucine-rich repeat protein kinase family protein
+TR31105|c6_g2_i5,GO:0016310,leucine-rich repeat transmembrane protein kinase
+TR31105|c6_g2_i5,GO:0006464,leucine-rich repeat transmembrane protein kinase
+TR31105|c6_g2_i5,GO:0004672,leucine-rich repeat transmembrane protein kinase
+TR31231|c0_g1_i9,GO:0046872,ent-kaurene synthase
+TR31231|c0_g1_i9,GO:0010333,ent-kaurene synthase
+TR31379|c0_g1_i2,GO:0036094,nb-arc domain-containing disease resistance isoform 2
+TR31379|c0_g1_i2,GO:0097159,nb-arc domain-containing disease resistance isoform 2
+TR31379|c0_g1_i2,GO:1901363,nb-arc domain-containing disease resistance isoform 2
+TR31442|c0_g1_i1,GO:0022890,zinc transporter 11-like
+TR31442|c0_g1_i1,GO:0006812,zinc transporter 11-like
+TR31442|c0_g1_i1,GO:0044763,zinc transporter 11-like
+TR31463|c0_g1_i2,GO:0031406,uncharacterized protein loc103330312 isoform x2
+TR31463|c0_g1_i2,GO:0016094,uncharacterized protein loc103330312 isoform x2
+TR31474|c0_g2_i2,GO:0016740,probable lrr receptor-like serine threonine-protein kinase at3g47570-like
+TR31498|c1_g1_i2,GO:0042887,probable urea active transporter 1
+TR31498|c1_g1_i2,GO:0044763,probable urea active transporter 1
+TR31498|c1_g1_i2,GO:0015840,probable urea active transporter 1
+TR31498|c1_g1_i2,GO:0015291,probable urea active transporter 1
+TR31498|c1_g1_i2,GO:0044425,probable urea active transporter 1
+TR31633|c1_g1_i3,GO:0031399,uncharacterized protein loc100265501
+TR31633|c1_g1_i3,GO:0009536,uncharacterized protein loc100265501
+TR31633|c1_g1_i3,GO:0006091,uncharacterized protein loc100265501
+TR31696|c1_g1_i1,GO:0043231,auxin-responsive protein iaa26-like
+TR31696|c1_g1_i1,GO:0034645,auxin-responsive protein iaa26-like
+TR31696|c1_g1_i1,GO:0010468,auxin-responsive protein iaa26-like
+TR31696|c1_g1_i1,GO:0009755,auxin-responsive protein iaa26-like
+TR31696|c1_g1_i1,GO:0005515,auxin-responsive protein iaa26-like
+TR31751|c1_g1_i1,GO:0031976,uncharacterized protein loc100264638
+TR31751|c1_g1_i1,GO:0006007,uncharacterized protein loc100264638
+TR31787|c2_g1_i1,GO:0051726,cyclin isoform 1
+TR31787|c2_g1_i1,GO:0043231,cyclin isoform 1
+TR31787|c2_g1_i1,GO:0019900,cyclin isoform 1
+TR31871|c0_g1_i1,GO:0009892,plant invertase pectin methylesterase inhibitor superfamily
+TR31871|c0_g1_i1,GO:0030234,plant invertase pectin methylesterase inhibitor superfamily
+TR31871|c0_g1_i1,GO:0052689,plant invertase pectin methylesterase inhibitor superfamily
+TR31882|c0_g1_i1,GO:0051726,cyclin isoform 1
+TR31882|c0_g1_i1,GO:0043231,cyclin isoform 1
+TR31882|c0_g1_i1,GO:0019900,cyclin isoform 1
+TR31901|c0_g1_i1,GO:0048580,microtubule-associated protein tortifolia1
+TR31901|c0_g1_i1,GO:0034968,microtubule-associated protein tortifolia1
+TR31901|c0_g1_i1,GO:0006342,microtubule-associated protein tortifolia1
+TR31901|c0_g1_i1,GO:0051052,microtubule-associated protein tortifolia1
+TR31904|c1_g1_i5,GO:0044710,1-aminocyclopropane-1-carboxylate oxidase-like
+TR31904|c1_g1_i5,GO:0046914,1-aminocyclopropane-1-carboxylate oxidase-like
+TR31904|c1_g1_i5,GO:0016705,1-aminocyclopropane-1-carboxylate oxidase-like
+TR32015|c2_g1_i1,GO:0031406,d-3-phosphoglycerate chloroplastic-like
+TR32015|c2_g1_i1,GO:0006563,d-3-phosphoglycerate chloroplastic-like
+TR32015|c2_g1_i1,GO:0016616,d-3-phosphoglycerate chloroplastic-like
+TR32015|c2_g1_i1,GO:0000166,d-3-phosphoglycerate chloroplastic-like
+TR32044|c0_g2_i15,GO:0003824,serine-threonine protein plant-
+TR32079|c1_g5_i6,GO:0016740,hypothetical protein EUGRSUZ_G00163 [Eucalyptus grandis]
+TR32136|c1_g1_i1,GO:0006633,linoleate 13s-lipoxygenase 2- chloroplastic-like
+TR32136|c1_g1_i1,GO:0046914,linoleate 13s-lipoxygenase 2- chloroplastic-like
+TR32136|c1_g1_i1,GO:0016702,linoleate 13s-lipoxygenase 2- chloroplastic-like
+TR32141|c0_g1_i1,GO:0051234,nitrate transporter -like
+TR32168|c3_g1_i2,GO:0005488,wall-associated receptor kinase 2-like
+TR32168|c3_g1_i2,GO:0016301,wall-associated receptor kinase 2-like
+TR32224|c0_g2_i2,GO:0036094,l-type lectin-domain containing receptor kinase -like
+TR32224|c0_g2_i2,GO:0004672,l-type lectin-domain containing receptor kinase -like
+TR32224|c0_g2_i2,GO:1901363,l-type lectin-domain containing receptor kinase -like
+TR32224|c0_g2_i2,GO:0097159,l-type lectin-domain containing receptor kinase -like
+TR32287|c3_g1_i1,GO:0016798,vicianin hydrolase-like
+TR32287|c3_g1_i1,GO:0044238,vicianin hydrolase-like
+TR32327|c1_g1_i1,GO:0046872,cytochrome p450 71a1
+TR32327|c1_g1_i1,GO:0016491,cytochrome p450 71a1
+TR32382|c1_g1_i4,GO:0015291,protein transparent testa 12-like
+TR32382|c1_g1_i4,GO:0044425,protein transparent testa 12-like
+TR32382|c1_g1_i4,GO:0015893,protein transparent testa 12-like
+TR32382|c1_g1_i4,GO:0044763,protein transparent testa 12-like
+TR32385|c0_g1_i1,GO:0044763,mechanosensitive ion channel protein 10-like
+TR32407|c0_g1_i1,GO:0016791,purple acid phosphatase precursor family protein
+TR32407|c0_g1_i1,GO:0006796,purple acid phosphatase precursor family protein
+TR32407|c0_g1_i1,GO:0043169,purple acid phosphatase precursor family protein
+TR32487|c0_g1_i5,GO:0043234,receptor like protein
+TR32487|c0_g1_i5,GO:0036094,receptor like protein
+TR32487|c0_g1_i5,GO:0044430,receptor like protein
+TR32487|c0_g1_i5,GO:1901363,receptor like protein
+TR32487|c0_g1_i5,GO:0097159,receptor like protein
+TR32487|c0_g1_i5,GO:0015630,receptor like protein
+TR32533|c1_g1_i4,GO:0032787,bifunctional 3-dehydroquinate dehydratase shikimate chloroplastic-like isoform x1
+TR32533|c1_g1_i4,GO:0016616,bifunctional 3-dehydroquinate dehydratase shikimate chloroplastic-like isoform x1
+TR32533|c1_g1_i4,GO:0016836,bifunctional 3-dehydroquinate dehydratase shikimate chloroplastic-like isoform x1
+TR32533|c1_g1_i4,GO:0000166,bifunctional 3-dehydroquinate dehydratase shikimate chloroplastic-like isoform x1
+TR32579|c1_g1_i1,GO:0051234,phosphatidylinositol phosphatidylcholine transfer protein sfh8
+TR32579|c1_g1_i1,GO:0044464,phosphatidylinositol phosphatidylcholine transfer protein sfh8
+TR32581|c4_g2_i1,GO:0003676,gbf s pro-rich region-interacting factor 1
+TR32606|c1_g1_i2,GO:0044710,flavin-containing monooxygenase family protein
+TR32606|c1_g1_i2,GO:0016709,flavin-containing monooxygenase family protein
+TR32606|c1_g1_i2,GO:0000166,flavin-containing monooxygenase family protein
+TR32624|c0_g1_i2,GO:0008152,superoxide dismutase
+TR32714|c2_g2_i2,GO:0043169,chlorophyll a-b binding protein of lhcii type 1 isoform x1
+TR32714|c2_g2_i2,GO:0046906,chlorophyll a-b binding protein of lhcii type 1 isoform x1
+TR32714|c2_g2_i2,GO:0009521,chlorophyll a-b binding protein of lhcii type 1 isoform x1
+TR32714|c2_g2_i2,GO:0006091,chlorophyll a-b binding protein of lhcii type 1 isoform x1
+TR32714|c2_g2_i2,GO:0009536,chlorophyll a-b binding protein of lhcii type 1 isoform x1
+TR32714|c2_g2_i2,GO:0006464,chlorophyll a-b binding protein of lhcii type 1 isoform x1
+TR32714|c2_g2_i2,GO:0006787,chlorophyll a-b binding protein of lhcii type 1 isoform x1
+TR32714|c2_g2_i2,GO:0032958,chlorophyll a-b binding protein of lhcii type 1 isoform x1
+TR32719|c1_g3_i1,GO:0046906,structural maintenance of chromosomes protein 3-like
+TR32719|c1_g3_i1,GO:0042743,structural maintenance of chromosomes protein 3-like
+TR32719|c1_g3_i1,GO:0043169,structural maintenance of chromosomes protein 3-like
+TR32719|c1_g3_i1,GO:0006950,structural maintenance of chromosomes protein 3-like
+TR32719|c1_g3_i1,GO:0044444,structural maintenance of chromosomes protein 3-like
+TR32719|c1_g3_i1,GO:0004601,structural maintenance of chromosomes protein 3-like
+TR32719|c1_g3_i1,GO:0044710,structural maintenance of chromosomes protein 3-like
+TR32771|c0_g1_i1,GO:0016109,capsanthin capsorubin chromoplast-like
+TR32771|c0_g1_i1,GO:0016491,capsanthin capsorubin chromoplast-like
+TR32777|c3_g2_i2,GO:0050896,mitochondrial pyruvate carrier 1-like isoform x1
+TR32777|c3_g2_i2,GO:0071704,mitochondrial pyruvate carrier 1-like isoform x1
+TR32777|c3_g2_i2,GO:0043231,mitochondrial pyruvate carrier 1-like isoform x1
+TR32777|c3_g2_i2,GO:0044238,mitochondrial pyruvate carrier 1-like isoform x1
+TR32777|c3_g2_i2,GO:0006839,mitochondrial pyruvate carrier 1-like isoform x1
+TR32777|c3_g2_i2,GO:0044763,mitochondrial pyruvate carrier 1-like isoform x1
+TR32777|c3_g2_i2,GO:0044710,mitochondrial pyruvate carrier 1-like isoform x1
+TR32777|c3_g2_i2,GO:0019866,mitochondrial pyruvate carrier 1-like isoform x1
+TR32777|c3_g2_i2,GO:0006091,mitochondrial pyruvate carrier 1-like isoform x1
+TR32786|c0_g1_i1,GO:0003677,uncharacterized protein tcm_027242
+TR32786|c0_g1_i1,GO:0034645,uncharacterized protein tcm_027242
+TR32850|c2_g1_i1,GO:0036094,probable disease resistance protein at5g66900 isoform x2
+TR32850|c2_g1_i1,GO:0097159,probable disease resistance protein at5g66900 isoform x2
+TR32850|c2_g1_i1,GO:1901363,probable disease resistance protein at5g66900 isoform x2
+TR32930|c1_g1_i1,GO:0022402,65-kda microtubule-associated protein 3
+TR32930|c1_g1_i1,GO:0015631,65-kda microtubule-associated protein 3
+TR32930|c1_g1_i1,GO:0007017,65-kda microtubule-associated protein 3
+TR32949|c0_g1_i1,GO:0003676,dna excision repair protein ercc-6-like isoform x1
+TR32949|c0_g1_i1,GO:0032550,dna excision repair protein ercc-6-like isoform x1
+TR32956|c0_g1_i1,GO:0044710,cytochrome p450 family protein
+TR32956|c0_g1_i1,GO:0046914,cytochrome p450 family protein
+TR32956|c0_g1_i1,GO:0016712,cytochrome p450 family protein
+TR32956|c0_g1_i1,GO:0046906,cytochrome p450 family protein
+TR32968|c0_g1_i1,GO:0016757,anthocyanidin 3-o-glucosyltransferase 5-like isoform x1
+TR33008|c1_g1_i3,GO:0051726,unnamed protein product [Vitis vinifera]
+TR33008|c1_g1_i3,GO:0043231,unnamed protein product [Vitis vinifera]
+TR33008|c1_g1_i3,GO:0019900,unnamed protein product [Vitis vinifera]
+TR33010|c0_g1_i3,GO:0006796,leucine-rich repeat protein kinase family isoform 1
+TR33010|c0_g1_i3,GO:0016301,leucine-rich repeat protein kinase family isoform 1
+TR33010|c0_g1_i3,GO:0016020,leucine-rich repeat protein kinase family isoform 1
+TR33056|c3_g2_i1,GO:0006796,s-locus lectin protein kinase family
+TR33056|c3_g2_i1,GO:0006464,s-locus lectin protein kinase family
+TR33056|c3_g2_i1,GO:0004672,s-locus lectin protein kinase family
+TR33056|c3_g2_i1,GO:0008037,s-locus lectin protein kinase family
+TR33056|c3_g2_i1,GO:0032550,s-locus lectin protein kinase family
+TR33104|c0_g1_i11,GO:0032550,long chain acyl- synthetase 1 isoform x1
+TR33104|c0_g1_i11,GO:0006631,long chain acyl- synthetase 1 isoform x1
+TR33104|c0_g1_i11,GO:0043231,long chain acyl- synthetase 1 isoform x1
+TR33104|c0_g1_i11,GO:0009886,long chain acyl- synthetase 1 isoform x1
+TR33104|c0_g1_i11,GO:0033554,long chain acyl- synthetase 1 isoform x1
+TR33104|c0_g1_i11,GO:0015645,long chain acyl- synthetase 1 isoform x1
+TR33104|c0_g1_i11,GO:0009059,long chain acyl- synthetase 1 isoform x1
+TR33104|c0_g1_i11,GO:0009814,long chain acyl- synthetase 1 isoform x1
+TR33112|c2_g1_i2,GO:0044425,reticulon-like protein b17
+TR33182|c0_g1_i1,GO:0005737,low quality protein: protein tpx2
+TR33182|c0_g1_i1,GO:0000280,low quality protein: protein tpx2
+TR33182|c0_g1_i1,GO:0043234,low quality protein: protein tpx2
+TR33182|c0_g1_i1,GO:0005634,low quality protein: protein tpx2
+TR33182|c0_g1_i1,GO:0044446,low quality protein: protein tpx2
+TR33182|c0_g1_i1,GO:0015630,low quality protein: protein tpx2
+TR33212|c1_g2_i1,GO:0016746,anthranilate n-benzoyltransferase
+TR33216|c0_g1_i1,GO:0019538,subtilisin-like protease
+TR33216|c0_g1_i1,GO:0004175,subtilisin-like protease
+TR33247|c2_g2_i7,GO:0006796,kinase superfamily protein isoform 3
+TR33247|c2_g2_i7,GO:0004672,kinase superfamily protein isoform 3
+TR33355|c7_g1_i5,GO:0044710,protease degq
+TR33355|c7_g1_i5,GO:0016628,protease degq
+TR33355|c7_g1_i5,GO:0019538,protease degq
+TR33355|c7_g1_i5,GO:0004175,protease degq
+TR33410|c5_g1_i3,GO:0044763,probable sulfate transporter -like
+TR33410|c5_g1_i3,GO:0008272,probable sulfate transporter -like
+TR33410|c5_g1_i3,GO:0015291,probable sulfate transporter -like
+TR33410|c5_g1_i3,GO:0015103,probable sulfate transporter -like
+TR33410|c5_g1_i3,GO:0044425,probable sulfate transporter -like
+TR33433|c2_g1_i9,GO:0046872,transcription factor jumonji domain-containing isoform partial
+TR33433|c2_g1_i9,GO:0008152,transcription factor jumonji domain-containing isoform partial
+TR33440|c0_g1_i6,GO:0016301,probable lrr receptor-like serine threonine-protein kinase at1g06840
+TR33440|c0_g1_i6,GO:0016020,probable lrr receptor-like serine threonine-protein kinase at1g06840
+TR33472|c0_g1_i1,GO:0046872,PREDICTED: laccase-14-like [Malus domestica]
+TR33472|c0_g1_i1,GO:0016491,PREDICTED: laccase-14-like [Malus domestica]
+TR33472|c0_g1_i1,GO:0005576,PREDICTED: laccase-14-like [Malus domestica]
+TR33472|c0_g1_i1,GO:0044710,PREDICTED: laccase-14-like [Malus domestica]
+TR33683|c0_g1_i1,GO:0005875,kinesin-ii 95 kda subunit
+TR33683|c0_g1_i1,GO:0015631,kinesin-ii 95 kda subunit
+TR33683|c0_g1_i1,GO:0007017,kinesin-ii 95 kda subunit
+TR33683|c0_g1_i1,GO:0003774,kinesin-ii 95 kda subunit
+TR33683|c0_g1_i1,GO:0032550,kinesin-ii 95 kda subunit
+TR33727|c2_g3_i1,GO:0036094,probable lrr receptor-like serine threonine-protein kinase at3g47570-like isoform x3
+TR33727|c2_g3_i1,GO:0004672,probable lrr receptor-like serine threonine-protein kinase at3g47570-like isoform x3
+TR33727|c2_g3_i1,GO:1901363,probable lrr receptor-like serine threonine-protein kinase at3g47570-like isoform x3
+TR33727|c2_g3_i1,GO:0016020,probable lrr receptor-like serine threonine-protein kinase at3g47570-like isoform x3
+TR33727|c2_g3_i1,GO:0097159,probable lrr receptor-like serine threonine-protein kinase at3g47570-like isoform x3
+TR33728|c10_g1_i6,GO:0006259,dna polymerase zeta catalytic subunit-like isoform x1
+TR33728|c10_g1_i6,GO:0003676,dna polymerase zeta catalytic subunit-like isoform x1
+TR33728|c10_g1_i6,GO:0016779,dna polymerase zeta catalytic subunit-like isoform x1
+TR33790|c0_g1_i2,GO:0008378,stachyose synthase family protein
+TR33818|c3_g2_i4,GO:0036094,lrr and nb-arc domains-containing disease resistance
+TR33818|c3_g2_i4,GO:0097159,lrr and nb-arc domains-containing disease resistance
+TR33818|c3_g2_i4,GO:1901363,lrr and nb-arc domains-containing disease resistance
+TR33861|c3_g2_i8,GO:0003676,uncharacterized protein loc102664214
+TR33873|c3_g2_i1,GO:0036094,tmv resistance protein n-like
+TR33873|c3_g2_i1,GO:1901363,tmv resistance protein n-like
+TR33873|c3_g2_i1,GO:0097159,tmv resistance protein n-like
+TR33893|c0_g1_i1,GO:0015630,caldesmon isoform x1
+TR33893|c0_g1_i1,GO:0043234,caldesmon isoform x1
+TR33893|c0_g1_i1,GO:0000280,caldesmon isoform x1
+TR33943|c2_g1_i1,GO:0044464,rho gtpase activating protein with pak-box p21-rho-binding domain
+TR33943|c2_g1_i1,GO:0050794,rho gtpase activating protein with pak-box p21-rho-binding domain
+TR33956|c1_g1_i4,GO:0045841,plant mitotic spindle assembly checkpoint protein
+TR34005|c3_g1_i1,GO:0016787,"Cucumisin precursor, putative [Ricinus communis]"
+TR34046|c0_g1_i1,GO:0044444,uncharacterized protein loc100245597
+TR39049|c2_g1_i6,GO:0016104,beta-amyrin synthase
+TR39049|c2_g1_i6,GO:0031559,beta-amyrin synthase
+TR39077|c2_g2_i2,GO:0006865,cationic amino acid transporter 2 isoform 1
+TR39077|c2_g2_i2,GO:0044425,cationic amino acid transporter 2 isoform 1
+TR39077|c2_g2_i2,GO:0046943,cationic amino acid transporter 2 isoform 1
+TR39111|c3_g3_i1,GO:0009536,uncharacterized protein loc100249836
+TR39111|c3_g3_i1,GO:0003006,uncharacterized protein loc100249836
+TR39111|c3_g3_i1,GO:0006418,uncharacterized protein loc100249836
+TR39111|c3_g3_i1,GO:0043167,uncharacterized protein loc100249836
+TR39111|c3_g3_i1,GO:0003676,uncharacterized protein loc100249836
+TR39111|c3_g3_i1,GO:0036094,uncharacterized protein loc100249836
+TR39111|c3_g3_i1,GO:0009657,uncharacterized protein loc100249836
+TR39111|c3_g3_i1,GO:0004812,uncharacterized protein loc100249836
+TR39128|c4_g1_i2,GO:0015077,ammonium transporter 3 member 3
+TR39128|c4_g1_i2,GO:0015696,ammonium transporter 3 member 3
+TR39128|c4_g1_i2,GO:0044425,ammonium transporter 3 member 3
+TR39148|c4_g1_i1,GO:0017016,cellular apoptosis susceptibility protein importin-alpha re- isoform 1
+TR39148|c4_g1_i1,GO:0015031,cellular apoptosis susceptibility protein importin-alpha re- isoform 1
+TR39151|c0_g2_i7,GO:0003824,thioesterase thiol ester dehydrase-isomerase superfamily protein
+TR39163|c1_g1_i4,GO:0006796,atp binding
+TR39163|c1_g1_i4,GO:0006464,atp binding
+TR39163|c1_g1_i4,GO:0004672,atp binding
+TR39163|c1_g1_i4,GO:0008037,atp binding
+TR39163|c1_g1_i4,GO:0032550,atp binding
+TR39202|c3_g1_i2,GO:0044710,serine-threonine protein plant-
+TR39202|c3_g1_i2,GO:0016628,serine-threonine protein plant-
+TR39202|c3_g1_i2,GO:0016772,serine-threonine protein plant-
+TR39202|c3_g1_i2,GO:0006796,serine-threonine protein plant-
+TR39273|c3_g2_i1,GO:0016301,g-type lectin s-receptor-like serine threonine-protein kinase sd2-5
+TR39273|c3_g2_i1,GO:0009987,g-type lectin s-receptor-like serine threonine-protein kinase sd2-5
+TR39336|c2_g1_i1,GO:0043231,pox family isoform 1
+TR39336|c2_g1_i1,GO:0006305,pox family isoform 1
+TR39336|c2_g1_i1,GO:0048580,pox family isoform 1
+TR39336|c2_g1_i1,GO:0001071,pox family isoform 1
+TR39336|c2_g1_i1,GO:0065001,pox family isoform 1
+TR39336|c2_g1_i1,GO:0001763,pox family isoform 1
+TR39336|c2_g1_i1,GO:0030422,pox family isoform 1
+TR39336|c2_g1_i1,GO:0006342,pox family isoform 1
+TR39336|c2_g1_i1,GO:0048608,pox family isoform 1
+TR39336|c2_g1_i1,GO:0007154,pox family isoform 1
+TR39336|c2_g1_i1,GO:0003002,pox family isoform 1
+TR39336|c2_g1_i1,GO:0003677,pox family isoform 1
+TR39336|c2_g1_i1,GO:0010074,pox family isoform 1
+TR39336|c2_g1_i1,GO:0009799,pox family isoform 1
+TR39336|c2_g1_i1,GO:0048646,pox family isoform 1
+TR39336|c2_g1_i1,GO:0045087,pox family isoform 1
+TR39336|c2_g1_i1,GO:0044444,pox family isoform 1
+TR39355|c0_g2_i3,GO:0005488,basic helix-loop-helix dna-binding superfamily protein isoform 1
+TR39367|c3_g2_i3,GO:0016301,receptor-like protein kinase hsl1
+TR39368|c0_g1_i2,GO:0043169,zinc finger family protein
+TR39368|c0_g1_i2,GO:0097159,zinc finger family protein
+TR39429|c2_g1_i8,GO:0044763,hippocampus abundant transcript-like protein 1
+TR39429|c2_g1_i8,GO:0003676,hippocampus abundant transcript-like protein 1
+TR39429|c2_g1_i8,GO:0044260,hippocampus abundant transcript-like protein 1
+TR39429|c2_g1_i8,GO:0044262,hippocampus abundant transcript-like protein 1
+TR39429|c2_g1_i8,GO:0044425,hippocampus abundant transcript-like protein 1
+TR39429|c2_g1_i8,GO:0044723,hippocampus abundant transcript-like protein 1
+TR39429|c2_g1_i8,GO:0036094,hippocampus abundant transcript-like protein 1
+TR39445|c0_g1_i4,GO:0009886,gdsl esterase lipase at4g28780
+TR39445|c0_g1_i4,GO:0006629,gdsl esterase lipase at4g28780
+TR39445|c0_g1_i4,GO:0016787,gdsl esterase lipase at4g28780
+TR39445|c0_g1_i4,GO:0009451,gdsl esterase lipase at4g28780
+TR39482|c0_g1_i2,GO:0019538,serine carboxypeptidase-like 40-like
+TR39482|c0_g1_i2,GO:0004180,serine carboxypeptidase-like 40-like
+TR39521|c0_g1_i1,GO:0016772,lrr receptor-like serine threonine-protein
+TR39538|c1_g1_i2,GO:0006796,s-locus lectin protein kinase family
+TR39538|c1_g1_i2,GO:0036094,s-locus lectin protein kinase family
+TR39538|c1_g1_i2,GO:0004672,s-locus lectin protein kinase family
+TR39538|c1_g1_i2,GO:1901363,s-locus lectin protein kinase family
+TR39538|c1_g1_i2,GO:0016020,s-locus lectin protein kinase family
+TR39538|c1_g1_i2,GO:0097159,s-locus lectin protein kinase family
+TR39555|c11_g1_i4,GO:0016301,probable lrr receptor-like serine threonine-protein kinase at3g47570
+TR39618|c6_g1_i10,GO:0043169,calcium-transporting atpase plasma membrane-type
+TR39618|c6_g1_i10,GO:0032550,calcium-transporting atpase plasma membrane-type
+TR39618|c6_g1_i10,GO:0019829,calcium-transporting atpase plasma membrane-type
+TR39618|c6_g1_i10,GO:0044425,calcium-transporting atpase plasma membrane-type
+TR39618|c6_g1_i10,GO:0005515,calcium-transporting atpase plasma membrane-type
+TR39618|c6_g1_i10,GO:0006816,calcium-transporting atpase plasma membrane-type
+TR39620|c3_g1_i4,GO:0036094,tmv resistance protein
+TR39620|c3_g1_i4,GO:1901363,tmv resistance protein
+TR39620|c3_g1_i4,GO:0097159,tmv resistance protein
+TR39623|c2_g2_i1,GO:0032550,atp binding
+TR39623|c2_g2_i1,GO:0005875,atp binding
+TR39623|c2_g2_i1,GO:0003774,atp binding
+TR39623|c2_g2_i1,GO:0044444,atp binding
+TR39623|c2_g2_i1,GO:0007017,atp binding
+TR39623|c2_g2_i1,GO:0061640,atp binding
+TR39623|c2_g2_i1,GO:0015631,atp binding
+TR39665|c4_g2_i10,GO:0003824,alpha beta-hydrolases superfamily protein isoform 2
+TR39680|c1_g3_i5,GO:0009536,pentatricopeptide repeat-containing protein at2g02980
+TR39680|c1_g3_i5,GO:0009451,pentatricopeptide repeat-containing protein at2g02980
+TR39680|c1_g3_i5,GO:0006396,pentatricopeptide repeat-containing protein at2g02980
+TR39738|c0_g3_i8,GO:0003676,gag-pol polyprotein
+TR39738|c0_g3_i8,GO:0006259,gag-pol polyprotein
+TR39741|c1_g3_i5,GO:0016740,s-adenosyl-l-methionine-dependent methyltransferases superfamily
+TR39863|c3_g1_i8,GO:0006796,probable leucine-rich repeat receptor-like serine threonine-protein kinase at3g14840-like
+TR39863|c3_g1_i8,GO:0006464,probable leucine-rich repeat receptor-like serine threonine-protein kinase at3g14840-like
+TR39863|c3_g1_i8,GO:0004672,probable leucine-rich repeat receptor-like serine threonine-protein kinase at3g14840-like
+TR39863|c3_g1_i8,GO:0032550,probable leucine-rich repeat receptor-like serine threonine-protein kinase at3g14840-like
+TR39944|c0_g2_i18,GO:0030243,cellulose synthase like e1 isoform 1
+TR39944|c0_g2_i18,GO:0016759,cellulose synthase like e1 isoform 1
+TR39944|c0_g2_i18,GO:0044425,cellulose synthase like e1 isoform 1
+TR39966|c3_g1_i1,GO:0019538,subtilisin-like serine protease 2
+TR39966|c3_g1_i1,GO:0004175,subtilisin-like serine protease 2
+TR40004|c2_g1_i1,GO:0048449,formin-like protein 11
+TR40004|c2_g1_i1,GO:0016020,formin-like protein 11
+TR40078|c5_g1_i6,GO:0016772,probable lrr receptor-like serine threonine-protein kinase at3g47570-like
+TR40088|c1_g1_i3,GO:0032550,cc-nbs-lrr class disease resistance isoform 1
+TR40216|c2_g2_i6,GO:0016746,acyltransferase-like protein chloroplastic
+TR40268|c1_g5_i3,GO:0032550,nematode resistance-like protein
+TR40284|c1_g1_i1,GO:0046872,gag-pol polyprotein
+TR40293|c2_g1_i2,GO:0034645,60s ribosomal protein l27
+TR40293|c2_g1_i2,GO:0030529,60s ribosomal protein l27
+TR40293|c2_g1_i2,GO:0005198,60s ribosomal protein l27
+TR40323|c4_g2_i10,GO:0006468,serine threonine-protein kinase
+TR40323|c4_g2_i10,GO:0035556,serine threonine-protein kinase
+TR40323|c4_g2_i10,GO:0044710,serine threonine-protein kinase
+TR40323|c4_g2_i10,GO:0004674,serine threonine-protein kinase
+TR40323|c4_g2_i10,GO:0016491,serine threonine-protein kinase
+TR40355|c7_g2_i7,GO:0006796,leucine-rich repeat transmembrane protein kinase
+TR40355|c7_g2_i7,GO:0006464,leucine-rich repeat transmembrane protein kinase
+TR40355|c7_g2_i7,GO:0004672,leucine-rich repeat transmembrane protein kinase
+TR40355|c7_g2_i7,GO:0044425,leucine-rich repeat transmembrane protein kinase
+TR40355|c7_g2_i7,GO:0032550,leucine-rich repeat transmembrane protein kinase
+TR40387|c4_g1_i1,GO:0006464,g-type lectin s-receptor-like serine threonine-protein kinase rks1
+TR40387|c4_g1_i1,GO:0004672,g-type lectin s-receptor-like serine threonine-protein kinase rks1
+TR40387|c4_g1_i1,GO:0032550,g-type lectin s-receptor-like serine threonine-protein kinase rks1
+TR40432|c2_g5_i5,GO:0036094,disease resistance protein
+TR40432|c2_g5_i5,GO:1901363,disease resistance protein
+TR40432|c2_g5_i5,GO:0097159,disease resistance protein
+TR41239|c0_g1_i1,GO:0006796,probable lrr receptor-like serine threonine-protein kinase at1g07650
+TR41239|c0_g1_i1,GO:0006464,probable lrr receptor-like serine threonine-protein kinase at1g07650
+TR41239|c0_g1_i1,GO:0004672,probable lrr receptor-like serine threonine-protein kinase at1g07650
+TR41239|c0_g1_i1,GO:0032550,probable lrr receptor-like serine threonine-protein kinase at1g07650
+TR41763|c0_g1_i1,GO:0032550,hypothetical protein VITISV_029336 [Vitis vinifera]
+TR41763|c0_g1_i1,GO:0006259,hypothetical protein VITISV_029336 [Vitis vinifera]
+TR41763|c0_g1_i1,GO:0046914,hypothetical protein VITISV_029336 [Vitis vinifera]
+TR41763|c0_g1_i1,GO:0004812,hypothetical protein VITISV_029336 [Vitis vinifera]
+TR41763|c0_g1_i1,GO:0006418,hypothetical protein VITISV_029336 [Vitis vinifera]
+TR41918|c0_g1_i1,GO:0044238,gdsl lipase
+TR41918|c0_g1_i1,GO:0016788,gdsl lipase
+TR42982|c0_g1_i1,GO:0006825,uncharacterized protein loc100263794
+TR42982|c0_g1_i1,GO:0046915,uncharacterized protein loc100263794
+TR42982|c0_g1_i1,GO:0044425,uncharacterized protein loc100263794
+TR43319|c0_g1_i1,GO:0003824,glutathione s-transferase phi 8
+TR34121|c4_g1_i7,GO:0032550,tmv resistance protein n-like
+TR34137|c4_g2_i2,GO:0006796,kinase superfamily
+TR34137|c4_g2_i2,GO:0016301,kinase superfamily
+TR34137|c4_g2_i2,GO:0006464,kinase superfamily
+TR34137|c4_g2_i2,GO:0032550,kinase superfamily
+TR34139|c1_g1_i5,GO:0046872,#NAME?
+TR34139|c1_g1_i5,GO:0016838,#NAME?
+TR34146|c2_g1_i4,GO:0016740,galacturonosyltransferase 3 isoform 2
+TR34269|c2_g1_i4,GO:0045240,dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex mitochondrial-like
+TR34269|c2_g1_i4,GO:0016751,dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex mitochondrial-like
+TR34269|c2_g1_i4,GO:0044238,dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex mitochondrial-like
+TR34270|c0_g1_i1,GO:0017111,atp binding
+TR34270|c0_g1_i1,GO:0032550,atp binding
+TR34270|c0_g1_i1,GO:0009154,atp binding
+TR34344|c6_g1_i2,GO:0044710,geraniol 8-hydroxylase-like
+TR34344|c6_g1_i2,GO:0046914,geraniol 8-hydroxylase-like
+TR34344|c6_g1_i2,GO:0016491,geraniol 8-hydroxylase-like
+TR34344|c6_g1_i2,GO:0046906,geraniol 8-hydroxylase-like
+TR34351|c0_g1_i1,GO:0006090,phosphoglycerate kinase
+TR34351|c0_g1_i1,GO:0006796,phosphoglycerate kinase
+TR34351|c0_g1_i1,GO:0016301,phosphoglycerate kinase
+TR34351|c0_g1_i1,GO:0032550,phosphoglycerate kinase
+TR34355|c0_g1_i1,GO:0017111,tubulin alpha
+TR34355|c0_g1_i1,GO:0032550,tubulin alpha
+TR34355|c0_g1_i1,GO:0009154,tubulin alpha
+TR34355|c0_g1_i1,GO:0043234,tubulin alpha
+TR34355|c0_g1_i1,GO:0043232,tubulin alpha
+TR34355|c0_g1_i1,GO:0043623,tubulin alpha
+TR34355|c0_g1_i1,GO:0005198,tubulin alpha
+TR34437|c3_g1_i3,GO:0050896,u-box domain-containing protein 35-like isoform x1
+TR34437|c3_g1_i3,GO:0004672,u-box domain-containing protein 35-like isoform x1
+TR34437|c3_g1_i3,GO:0032446,u-box domain-containing protein 35-like isoform x1
+TR34437|c3_g1_i3,GO:0032550,u-box domain-containing protein 35-like isoform x1
+TR34605|c0_g1_i1,GO:0019187,cellulose synthase-like d5
+TR34605|c0_g1_i1,GO:0043231,cellulose synthase-like d5
+TR34605|c0_g1_i1,GO:0016759,cellulose synthase-like d5
+TR34605|c0_g1_i1,GO:0030243,cellulose synthase-like d5
+TR34605|c0_g1_i1,GO:0070085,cellulose synthase-like d5
+TR34605|c0_g1_i1,GO:0009887,cellulose synthase-like d5
+TR34605|c0_g1_i1,GO:0000725,cellulose synthase-like d5
+TR34605|c0_g1_i1,GO:0006970,cellulose synthase-like d5
+TR34605|c0_g1_i1,GO:0014070,cellulose synthase-like d5
+TR34605|c0_g1_i1,GO:1902410,cellulose synthase-like d5
+TR34605|c0_g1_i1,GO:0044425,cellulose synthase-like d5
+TR34605|c0_g1_i1,GO:0007017,cellulose synthase-like d5
+TR34605|c0_g1_i1,GO:0031090,cellulose synthase-like d5
+TR34605|c0_g1_i1,GO:0008283,cellulose synthase-like d5
+TR34605|c0_g1_i1,GO:0044085,cellulose synthase-like d5
+TR34611|c8_g1_i2,GO:0044425,amino acid
+TR34834|c0_g1_i3,GO:0006468,serine threonine-protein kinase
+TR34834|c0_g1_i3,GO:0035556,serine threonine-protein kinase
+TR34834|c0_g1_i3,GO:0044710,serine threonine-protein kinase
+TR34834|c0_g1_i3,GO:0004674,serine threonine-protein kinase
+TR34834|c0_g1_i3,GO:0016491,serine threonine-protein kinase
+TR34868|c0_g1_i3,GO:0010468,homeodomain glabrous 2 isoform 2
+TR34868|c0_g1_i3,GO:0003677,homeodomain glabrous 2 isoform 2
+TR34868|c0_g1_i3,GO:0043231,homeodomain glabrous 2 isoform 2
+TR34899|c2_g2_i2,GO:0019028,small nuclear ribonucleoprotein family protein isoform 1
+TR34899|c2_g2_i2,GO:0032991,small nuclear ribonucleoprotein family protein isoform 1
+TR34901|c4_g1_i6,GO:0000302,rni-like superfamily protein isoform 1
+TR34901|c4_g1_i6,GO:0009642,rni-like superfamily protein isoform 1
+TR34958|c2_g2_i3,GO:0008135,stabilizer of iron transporter polynucleotidyl transferase isoform 1
+TR34958|c2_g2_i3,GO:0006412,stabilizer of iron transporter polynucleotidyl transferase isoform 1
+TR34958|c2_g2_i3,GO:0003824,stabilizer of iron transporter polynucleotidyl transferase isoform 1
+TR34958|c2_g2_i3,GO:0016458,stabilizer of iron transporter polynucleotidyl transferase isoform 1
+TR34986|c4_g1_i1,GO:0044763,dna repair protein reca homolog mitochondrial-like
+TR34986|c4_g1_i1,GO:0017111,dna repair protein reca homolog mitochondrial-like
+TR34986|c4_g1_i1,GO:0006259,dna repair protein reca homolog mitochondrial-like
+TR34986|c4_g1_i1,GO:0044710,dna repair protein reca homolog mitochondrial-like
+TR34986|c4_g1_i1,GO:0003677,dna repair protein reca homolog mitochondrial-like
+TR34986|c4_g1_i1,GO:0036094,dna repair protein reca homolog mitochondrial-like
+TR34986|c4_g1_i1,GO:0033554,dna repair protein reca homolog mitochondrial-like
+TR34994|c5_g1_i1,GO:0007017,fizzy-related 3 isoform 1
+TR34994|c5_g1_i1,GO:0016458,fizzy-related 3 isoform 1
+TR34994|c5_g1_i1,GO:0044786,fizzy-related 3 isoform 1
+TR34994|c5_g1_i1,GO:0001558,fizzy-related 3 isoform 1
+TR34994|c5_g1_i1,GO:0035966,fizzy-related 3 isoform 1
+TR34994|c5_g1_i1,GO:0008283,fizzy-related 3 isoform 1
+TR34994|c5_g1_i1,GO:0006305,fizzy-related 3 isoform 1
+TR34994|c5_g1_i1,GO:0006511,fizzy-related 3 isoform 1
+TR34994|c5_g1_i1,GO:0010564,fizzy-related 3 isoform 1
+TR34994|c5_g1_i1,GO:0044702,fizzy-related 3 isoform 1
+TR34994|c5_g1_i1,GO:0043623,fizzy-related 3 isoform 1
+TR34994|c5_g1_i1,GO:0032446,fizzy-related 3 isoform 1
+TR34994|c5_g1_i1,GO:0034968,fizzy-related 3 isoform 1
+TR34994|c5_g1_i1,GO:0000280,fizzy-related 3 isoform 1
+TR34994|c5_g1_i1,GO:1902410,fizzy-related 3 isoform 1
+TR35102|c1_g1_i6,GO:0044765,cyclic nucleotide-gated ion channel 1-like
+TR35134|c1_g1_i2,GO:0044710,cytochrome p450 71a1
+TR35134|c1_g1_i2,GO:0046914,cytochrome p450 71a1
+TR35134|c1_g1_i2,GO:0016491,cytochrome p450 71a1
+TR35134|c1_g1_i2,GO:0046906,cytochrome p450 71a1
+TR35178|c4_g1_i1,GO:0008610,o-acyltransferase wsd1-like
+TR35178|c4_g1_i1,GO:0016411,o-acyltransferase wsd1-like
+TR35187|c4_g1_i1,GO:0015291,mate efflux family protein 8-like
+TR35187|c4_g1_i1,GO:0044425,mate efflux family protein 8-like
+TR35187|c4_g1_i1,GO:0015893,mate efflux family protein 8-like
+TR35187|c4_g1_i1,GO:0044763,mate efflux family protein 8-like
+TR35192|c2_g3_i1,GO:0016705,1-aminocyclopropane-1-carboxylate oxidase homolog 1-like
+TR35192|c2_g3_i1,GO:0043169,1-aminocyclopropane-1-carboxylate oxidase homolog 1-like
+TR35192|c2_g3_i1,GO:0044710,1-aminocyclopropane-1-carboxylate oxidase homolog 1-like
+TR35277|c5_g1_i3,GO:0006090,pyruvate kinase isozyme chloroplastic-like isoform x3
+TR35277|c5_g1_i3,GO:0031420,pyruvate kinase isozyme chloroplastic-like isoform x3
+TR35277|c5_g1_i3,GO:0006796,pyruvate kinase isozyme chloroplastic-like isoform x3
+TR35277|c5_g1_i3,GO:0016301,pyruvate kinase isozyme chloroplastic-like isoform x3
+TR35295|c0_g1_i1,GO:0016740,flavonol 3-
+TR35342|c0_g1_i3,GO:0044763,glutamate receptor -like
+TR35342|c0_g1_i3,GO:0005230,glutamate receptor -like
+TR35342|c0_g1_i3,GO:0006811,glutamate receptor -like
+TR35342|c0_g1_i3,GO:0016020,glutamate receptor -like
+TR35383|c9_g1_i2,GO:0009740,f-box protein gid2
+TR35383|c9_g1_i2,GO:0003006,f-box protein gid2
+TR35383|c9_g1_i2,GO:0044424,f-box protein gid2
+TR35383|c9_g1_i2,GO:0044707,f-box protein gid2
+TR35403|c2_g1_i2,GO:0016757,udp-glucosyl transferase 85a2
+TR35420|c2_g1_i9,GO:0016772,serine threonine
+TR35430|c1_g3_i1,GO:0034968,tetratricopeptide repeat-like superfamily protein isoform 1
+TR35430|c1_g3_i1,GO:0006305,tetratricopeptide repeat-like superfamily protein isoform 1
+TR35430|c1_g3_i1,GO:0051052,tetratricopeptide repeat-like superfamily protein isoform 1
+TR35483|c2_g1_i2,GO:0036094,probable lrr receptor-like serine threonine-protein kinase at3g47570-like isoform x3
+TR35483|c2_g1_i2,GO:0004672,probable lrr receptor-like serine threonine-protein kinase at3g47570-like isoform x3
+TR35483|c2_g1_i2,GO:1901363,probable lrr receptor-like serine threonine-protein kinase at3g47570-like isoform x3
+TR35483|c2_g1_i2,GO:0097159,probable lrr receptor-like serine threonine-protein kinase at3g47570-like isoform x3
+TR35525|c0_g2_i5,GO:0051726,cyclin isoform 1
+TR35534|c1_g1_i2,GO:0019752,pyridoxal-5 -phosphate-dependent enzyme family protein
+TR35534|c1_g1_i2,GO:0043168,pyridoxal-5 -phosphate-dependent enzyme family protein
+TR35534|c1_g1_i2,GO:0016838,pyridoxal-5 -phosphate-dependent enzyme family protein
+TR35545|c1_g1_i4,GO:0017111,white-brown complex protein 11
+TR35545|c1_g1_i4,GO:0032550,white-brown complex protein 11
+TR35545|c1_g1_i4,GO:0009154,white-brown complex protein 11
+TR35545|c1_g1_i4,GO:0015604,white-brown complex protein 11
+TR35545|c1_g1_i4,GO:0044765,white-brown complex protein 11
+TR35547|c1_g1_i5,GO:0044710,peroxidase precursor family protein
+TR35547|c1_g1_i5,GO:0006950,peroxidase precursor family protein
+TR35547|c1_g1_i5,GO:0003824,peroxidase precursor family protein
+TR35547|c1_g1_i5,GO:0016209,peroxidase precursor family protein
+TR35547|c1_g1_i5,GO:0043169,peroxidase precursor family protein
+TR35547|c1_g1_i5,GO:0046906,peroxidase precursor family protein
+TR35558|c2_g2_i1,GO:0005618,auxin-binding protein abp20
+TR35558|c2_g2_i1,GO:0043231,auxin-binding protein abp20
+TR35558|c2_g2_i1,GO:0009886,auxin-binding protein abp20
+TR35558|c2_g2_i1,GO:0046914,auxin-binding protein abp20
+TR35558|c2_g2_i1,GO:0006091,auxin-binding protein abp20
+TR35558|c2_g2_i1,GO:0009617,auxin-binding protein abp20
+TR35558|c2_g2_i1,GO:0009755,auxin-binding protein abp20
+TR35558|c2_g2_i1,GO:0006873,auxin-binding protein abp20
+TR35558|c2_g2_i1,GO:0005576,auxin-binding protein abp20
+TR35558|c2_g2_i1,GO:0030001,auxin-binding protein abp20
+TR35569|c1_g2_i1,GO:0016458,isoform 1
+TR35569|c1_g2_i1,GO:0090304,isoform 1
+TR35569|c1_g2_i1,GO:0019219,isoform 1
+TR35569|c1_g2_i1,GO:2000112,isoform 1
+TR35569|c1_g2_i1,GO:0040029,isoform 1
+TR35605|c0_g2_i1,GO:0005875,p-loop containing nucleoside triphosphate hydrolases superfamily protein isoform 1
+TR35605|c0_g2_i1,GO:0015631,p-loop containing nucleoside triphosphate hydrolases superfamily protein isoform 1
+TR35605|c0_g2_i1,GO:0007017,p-loop containing nucleoside triphosphate hydrolases superfamily protein isoform 1
+TR35605|c0_g2_i1,GO:0003774,p-loop containing nucleoside triphosphate hydrolases superfamily protein isoform 1
+TR35605|c0_g2_i1,GO:0032550,p-loop containing nucleoside triphosphate hydrolases superfamily protein isoform 1
+TR35651|c1_g2_i1,GO:0036094,tir-nbs-lrr disease resistance-like protein
+TR35651|c1_g2_i1,GO:0097159,tir-nbs-lrr disease resistance-like protein
+TR35651|c1_g2_i1,GO:1901363,tir-nbs-lrr disease resistance-like protein
+TR35725|c4_g1_i1,GO:0043169,zinc finger family protein
+TR35787|c0_g1_i6,GO:0003824,bifunctional epoxide hydrolase 2-like
+TR35817|c3_g1_i1,GO:0003824,vacuolar protein 8
+TR35915|c1_g1_i1,GO:0044710,l-ascorbate oxidase-like
+TR35915|c1_g1_i1,GO:0003824,l-ascorbate oxidase-like
+TR35915|c1_g1_i1,GO:0046914,l-ascorbate oxidase-like
+TR35937|c0_g1_i1,GO:0051726,g2 mitotic-specific cyclin-1-like
+TR36030|c6_g1_i1,GO:0032550,leucine-rich repeat protein kinase family protein isoform 1
+TR36030|c6_g1_i1,GO:0006464,leucine-rich repeat protein kinase family protein isoform 1
+TR36030|c6_g1_i1,GO:0010073,leucine-rich repeat protein kinase family protein isoform 1
+TR36030|c6_g1_i1,GO:0044425,leucine-rich repeat protein kinase family protein isoform 1
+TR36030|c6_g1_i1,GO:0006796,leucine-rich repeat protein kinase family protein isoform 1
+TR36030|c6_g1_i1,GO:0016301,leucine-rich repeat protein kinase family protein isoform 1
+TR36057|c6_g1_i5,GO:0097159,lrr and nb-arc domains-containing disease resistance
+TR36057|c6_g1_i5,GO:1901363,lrr and nb-arc domains-containing disease resistance
+TR36116|c3_g2_i1,GO:0097159,methyltransferases isoform 1
+TR36116|c3_g2_i1,GO:0008152,methyltransferases isoform 1
+TR36116|c3_g2_i1,GO:0016741,methyltransferases isoform 1
+TR36126|c6_g1_i3,GO:0004553,chitinase-like protein 2
+TR36126|c6_g1_i3,GO:0044036,chitinase-like protein 2
+TR36126|c6_g1_i3,GO:0044238,chitinase-like protein 2
+TR36126|c6_g1_i3,GO:0006026,chitinase-like protein 2
+TR36130|c2_g1_i1,GO:0016798,o-glycosyl hydrolases family 17 protein
+TR36130|c2_g1_i1,GO:0044238,o-glycosyl hydrolases family 17 protein
+TR36131|c0_g1_i1,GO:1901363,kinesin-like protein kin12a
+TR36131|c0_g1_i1,GO:0044430,kinesin-like protein kin12a
+TR36131|c0_g1_i1,GO:0016569,kinesin-like protein kin12a
+TR36131|c0_g1_i1,GO:0015630,kinesin-like protein kin12a
+TR36131|c0_g1_i1,GO:0006259,kinesin-like protein kin12a
+TR36131|c0_g1_i1,GO:0006342,kinesin-like protein kin12a
+TR36131|c0_g1_i1,GO:0043414,kinesin-like protein kin12a
+TR36131|c0_g1_i1,GO:0043234,kinesin-like protein kin12a
+TR36131|c0_g1_i1,GO:0036094,kinesin-like protein kin12a
+TR36131|c0_g1_i1,GO:0097159,kinesin-like protein kin12a
+TR36131|c0_g1_i1,GO:1902589,kinesin-like protein kin12a
+TR36206|c3_g1_i7,GO:0046872,(-)-germacrene d synthase
+TR36206|c3_g1_i7,GO:0010334,(-)-germacrene d synthase
+TR36206|c3_g1_i7,GO:0006721,(-)-germacrene d synthase
+TR36206|c3_g1_i7,GO:0044424,(-)-germacrene d synthase
+TR36229|c5_g1_i1,GO:0044425,aquaporin pip2 2
+TR36229|c5_g1_i1,GO:0051234,aquaporin pip2 2
+TR36284|c3_g1_i1,GO:0044710,peroxidase 5-like
+TR36284|c3_g1_i1,GO:0006950,peroxidase 5-like
+TR36284|c3_g1_i1,GO:0003824,peroxidase 5-like
+TR36284|c3_g1_i1,GO:0016209,peroxidase 5-like
+TR36284|c3_g1_i1,GO:0043169,peroxidase 5-like
+TR36284|c3_g1_i1,GO:0046906,peroxidase 5-like
+TR36332|c3_g3_i1,GO:0016787,cell division protease ftsh isoform 1
+TR36332|c3_g3_i1,GO:0032446,cell division protease ftsh isoform 1
+TR36332|c3_g3_i1,GO:0044763,cell division protease ftsh isoform 1
+TR36369|c0_g1_i2,GO:0005875,kinesin motor family protein
+TR36369|c0_g1_i2,GO:0015631,kinesin motor family protein
+TR36369|c0_g1_i2,GO:0007017,kinesin motor family protein
+TR36369|c0_g1_i2,GO:0003774,kinesin motor family protein
+TR36369|c0_g1_i2,GO:0032550,kinesin motor family protein
+TR36382|c5_g1_i1,GO:0016740,c2 calcium lipid-binding plant phosphoribosyltransferase family protein
+TR36417|c4_g1_i1,GO:0017111,tubulin beta-1 chain-like
+TR36417|c4_g1_i1,GO:0032550,tubulin beta-1 chain-like
+TR36417|c4_g1_i1,GO:0009154,tubulin beta-1 chain-like
+TR36417|c4_g1_i1,GO:0043234,tubulin beta-1 chain-like
+TR36417|c4_g1_i1,GO:0043232,tubulin beta-1 chain-like
+TR36417|c4_g1_i1,GO:0043623,tubulin beta-1 chain-like
+TR36417|c4_g1_i1,GO:0005198,tubulin beta-1 chain-like
+TR36459|c3_g1_i2,GO:0015291,protein transparent testa 12-like
+TR36459|c3_g1_i2,GO:0044425,protein transparent testa 12-like
+TR36459|c3_g1_i2,GO:0015893,protein transparent testa 12-like
+TR36459|c3_g1_i2,GO:0044763,protein transparent testa 12-like
+TR36524|c3_g1_i1,GO:0017111,multidrug resistance protein abc transporter family
+TR36524|c3_g1_i1,GO:0032550,multidrug resistance protein abc transporter family
+TR36524|c3_g1_i1,GO:0009154,multidrug resistance protein abc transporter family
+TR36524|c3_g1_i1,GO:0044425,multidrug resistance protein abc transporter family
+TR36524|c3_g1_i1,GO:0051234,multidrug resistance protein abc transporter family
+TR36524|c3_g1_i1,GO:0015405,multidrug resistance protein abc transporter family
+TR36529|c3_g2_i2,GO:0006259,aaa-type atpase family protein isoform 1
+TR36529|c3_g2_i2,GO:0003676,aaa-type atpase family protein isoform 1
+TR36529|c3_g2_i2,GO:0042575,aaa-type atpase family protein isoform 1
+TR36529|c3_g2_i2,GO:0034061,aaa-type atpase family protein isoform 1
+TR36529|c3_g2_i2,GO:0032550,aaa-type atpase family protein isoform 1
+TR36570|c0_g1_i1,GO:0044425,organic cation carnitine transporter 3
+TR36570|c0_g1_i1,GO:0044763,organic cation carnitine transporter 3
+TR36570|c0_g1_i1,GO:0005215,organic cation carnitine transporter 3
+TR36768|c1_g1_i15,GO:0043231,uncharacterized protein mitochondrial
+TR36768|c1_g1_i15,GO:0032958,uncharacterized protein mitochondrial
+TR36787|c3_g2_i6,GO:0036094,disease resistance protein at4g27190-like
+TR36787|c3_g2_i6,GO:0097159,disease resistance protein at4g27190-like
+TR36787|c3_g2_i6,GO:1901363,disease resistance protein at4g27190-like
+TR36803|c4_g1_i2,GO:0006810,cyclic nucleotide-gated ion channel 1-like
+TR36812|c0_g3_i2,GO:0016853,lupeol synthase
+TR36844|c4_g1_i6,GO:0010876,kelch domain-containing protein 4
+TR36875|c0_g1_i1,GO:0005488,serine-threonine protein plant-
+TR36875|c0_g1_i1,GO:0004672,serine-threonine protein plant-
+TR36875|c0_g1_i1,GO:0016310,serine-threonine protein plant-
+TR36900|c6_g1_i2,GO:0046872,hypothetical protein VITISV_027864 [Vitis vinifera]
+TR36904|c3_g1_i3,GO:0005875,atp binding microtubule motor family protein isoform 2
+TR36904|c3_g1_i3,GO:0015631,atp binding microtubule motor family protein isoform 2
+TR36904|c3_g1_i3,GO:0007017,atp binding microtubule motor family protein isoform 2
+TR36904|c3_g1_i3,GO:0003774,atp binding microtubule motor family protein isoform 2
+TR36904|c3_g1_i3,GO:0032550,atp binding microtubule motor family protein isoform 2
+TR36948|c5_g2_i1,GO:0043231,at hook motif-containing expressed
+TR36948|c5_g2_i1,GO:0006259,at hook motif-containing expressed
+TR36948|c5_g2_i1,GO:0004386,at hook motif-containing expressed
+TR36988|c9_g2_i1,GO:0005875,di-glucose binding protein with kinesin motor domain
+TR36988|c9_g2_i1,GO:0015631,di-glucose binding protein with kinesin motor domain
+TR36988|c9_g2_i1,GO:0007017,di-glucose binding protein with kinesin motor domain
+TR36988|c9_g2_i1,GO:0003774,di-glucose binding protein with kinesin motor domain
+TR36988|c9_g2_i1,GO:0032550,di-glucose binding protein with kinesin motor domain
+TR37072|c1_g3_i3,GO:0032550,atpase plasma membrane-type isoform 2
+TR37072|c1_g3_i3,GO:0017111,atpase plasma membrane-type isoform 2
+TR37072|c1_g3_i3,GO:0009152,atpase plasma membrane-type isoform 2
+TR37072|c1_g3_i3,GO:0006812,atpase plasma membrane-type isoform 2
+TR37072|c1_g3_i3,GO:0044425,atpase plasma membrane-type isoform 2
+TR37072|c1_g3_i3,GO:0043169,atpase plasma membrane-type isoform 2
+TR37072|c1_g3_i3,GO:0009154,atpase plasma membrane-type isoform 2
+TR37072|c1_g3_i3,GO:0008324,atpase plasma membrane-type isoform 2
+TR37115|c10_g1_i10,GO:0050896,uncharacterized protein loc100243584
+TR37115|c10_g1_i10,GO:0046872,uncharacterized protein loc100243584
+TR37115|c10_g1_i10,GO:0009791,uncharacterized protein loc100243584
+TR37115|c10_g1_i10,GO:0050794,uncharacterized protein loc100243584
+TR37115|c10_g1_i10,GO:0048608,uncharacterized protein loc100243584
+TR37150|c0_g1_i4,GO:1902589,uncharacterized protein loc100261455
+TR37167|c1_g1_i1,GO:0006007,giant chloroplast 1 family protein
+TR37167|c1_g1_i1,GO:0006090,giant chloroplast 1 family protein
+TR37167|c1_g1_i1,GO:0009668,giant chloroplast 1 family protein
+TR37167|c1_g1_i1,GO:0009526,giant chloroplast 1 family protein
+TR37167|c1_g1_i1,GO:0009658,giant chloroplast 1 family protein
+TR37167|c1_g1_i1,GO:0048037,giant chloroplast 1 family protein
+TR37167|c1_g1_i1,GO:0016109,giant chloroplast 1 family protein
+TR37172|c2_g1_i2,GO:0060918,gdsl esterase lipase apg-like
+TR37172|c2_g1_i2,GO:0006631,gdsl esterase lipase apg-like
+TR37172|c2_g1_i2,GO:0071555,gdsl esterase lipase apg-like
+TR37172|c2_g1_i2,GO:0043479,gdsl esterase lipase apg-like
+TR37172|c2_g1_i2,GO:0032535,gdsl esterase lipase apg-like
+TR37172|c2_g1_i2,GO:0048588,gdsl esterase lipase apg-like
+TR37172|c2_g1_i2,GO:0005976,gdsl esterase lipase apg-like
+TR37172|c2_g1_i2,GO:0009826,gdsl esterase lipase apg-like
+TR37172|c2_g1_i2,GO:0007275,gdsl esterase lipase apg-like
+TR37172|c2_g1_i2,GO:0042546,gdsl esterase lipase apg-like
+TR37172|c2_g1_i2,GO:0005576,gdsl esterase lipase apg-like
+TR37172|c2_g1_i2,GO:0016787,gdsl esterase lipase apg-like
+TR37191|c4_g1_i5,GO:0004180,serine carboxypeptidase 45
+TR37196|c6_g1_i7,GO:0017111,abc2 isoform 1
+TR37196|c6_g1_i7,GO:0032550,abc2 isoform 1
+TR37196|c6_g1_i7,GO:0009154,abc2 isoform 1
+TR37221|c2_g1_i1,GO:0016772,kinase superfamily
+TR37243|c6_g1_i1,GO:0016301,u-box domain-containing protein 33-like
+TR37243|c6_g1_i1,GO:0044237,u-box domain-containing protein 33-like
+TR37301|c1_g3_i1,GO:0046872,myrcene chloroplastic-like
+TR37301|c1_g3_i1,GO:0016829,myrcene chloroplastic-like
+TR37330|c4_g2_i1,GO:0005875,kinesin 3 isoform 3
+TR37330|c4_g2_i1,GO:0015631,kinesin 3 isoform 3
+TR37330|c4_g2_i1,GO:0007017,kinesin 3 isoform 3
+TR37330|c4_g2_i1,GO:0003774,kinesin 3 isoform 3
+TR37330|c4_g2_i1,GO:0032550,kinesin 3 isoform 3
+TR37343|c1_g1_i1,GO:0030243,cellulose synthase-like protein g3
+TR37343|c1_g1_i1,GO:0016759,cellulose synthase-like protein g3
+TR37343|c1_g1_i1,GO:0044425,cellulose synthase-like protein g3
+TR37394|c5_g1_i4,GO:0016491,leucine-rich repeat protein kinase family protein
+TR37394|c5_g1_i4,GO:0006796,leucine-rich repeat protein kinase family protein
+TR37394|c5_g1_i4,GO:0016301,leucine-rich repeat protein kinase family protein
+TR37394|c5_g1_i4,GO:0016020,leucine-rich repeat protein kinase family protein
+TR37498|c5_g2_i2,GO:0044710,hypothetical protein PRUPE_ppa008899mg [Prunus persica]
+TR37498|c5_g2_i2,GO:0003824,hypothetical protein PRUPE_ppa008899mg [Prunus persica]
+TR37537|c4_g1_i7,GO:0016791,putative metallophosphatase [Lupinus luteus]
+TR37537|c4_g1_i7,GO:0006796,putative metallophosphatase [Lupinus luteus]
+TR37537|c4_g1_i7,GO:0043169,putative metallophosphatase [Lupinus luteus]
+TR37604|c2_g1_i5,GO:0046872,cytochrome p450 82c4-like
+TR37604|c2_g1_i5,GO:0016491,cytochrome p450 82c4-like
+TR37638|c3_g2_i1,GO:0015992,PREDICTED: phototropin-1-like [Vitis vinifera]
+TR37638|c3_g2_i1,GO:0004673,PREDICTED: phototropin-1-like [Vitis vinifera]
+TR37638|c3_g2_i1,GO:0032550,PREDICTED: phototropin-1-like [Vitis vinifera]
+TR37638|c3_g2_i1,GO:0005515,PREDICTED: phototropin-1-like [Vitis vinifera]
+TR37638|c3_g2_i1,GO:0009639,PREDICTED: phototropin-1-like [Vitis vinifera]
+TR37638|c3_g2_i1,GO:0009642,PREDICTED: phototropin-1-like [Vitis vinifera]
+TR37638|c3_g2_i1,GO:0043231,PREDICTED: phototropin-1-like [Vitis vinifera]
+TR37638|c3_g2_i1,GO:0010360,PREDICTED: phototropin-1-like [Vitis vinifera]
+TR37638|c3_g2_i1,GO:0009902,PREDICTED: phototropin-1-like [Vitis vinifera]
+TR37638|c3_g2_i1,GO:0010118,PREDICTED: phototropin-1-like [Vitis vinifera]
+TR37638|c3_g2_i1,GO:0034285,PREDICTED: phototropin-1-like [Vitis vinifera]
+TR37638|c3_g2_i1,GO:0006468,PREDICTED: phototropin-1-like [Vitis vinifera]
+TR37638|c3_g2_i1,GO:0009606,PREDICTED: phototropin-1-like [Vitis vinifera]
+TR37638|c3_g2_i1,GO:0009881,PREDICTED: phototropin-1-like [Vitis vinifera]
+TR37638|c3_g2_i1,GO:0032553,PREDICTED: phototropin-1-like [Vitis vinifera]
+TR37638|c3_g2_i1,GO:0030522,PREDICTED: phototropin-1-like [Vitis vinifera]
+TR37638|c3_g2_i1,GO:0005886,PREDICTED: phototropin-1-like [Vitis vinifera]
+TR37638|c3_g2_i1,GO:0035556,PREDICTED: phototropin-1-like [Vitis vinifera]
+TR37759|c2_g2_i2,GO:0016746,uncharacterized acetyltransferase at3g50280-like
+TR37848|c5_g1_i2,GO:0005976,chloroplast beta-amylase isoform 1
+TR37848|c5_g1_i2,GO:0016160,chloroplast beta-amylase isoform 1
+TR38078|c5_g6_i4,GO:0044710,probable mannitol dehydrogenase
+TR38078|c5_g6_i4,GO:0003824,probable mannitol dehydrogenase
+TR38078|c5_g6_i4,GO:0046914,probable mannitol dehydrogenase
+TR38141|c2_g1_i10,GO:0016740,uncharacterized protein loc102628603
+TR38151|c5_g3_i7,GO:0046872,cytochrome p450 family protein
+TR38151|c5_g3_i7,GO:0016705,cytochrome p450 family protein
+TR38151|c5_g3_i7,GO:0004497,cytochrome p450 family protein
+TR38184|c4_g1_i3,GO:0046914,hemeoglobin family protein
+TR38184|c4_g1_i3,GO:0015669,hemeoglobin family protein
+TR38184|c4_g1_i3,GO:0071941,hemeoglobin family protein
+TR38184|c4_g1_i3,GO:0022892,hemeoglobin family protein
+TR38184|c4_g1_i3,GO:0046906,hemeoglobin family protein
+TR38193|c2_g3_i1,GO:0005875,125 kda kinesin-related
+TR38193|c2_g3_i1,GO:0015631,125 kda kinesin-related
+TR38193|c2_g3_i1,GO:0007017,125 kda kinesin-related
+TR38193|c2_g3_i1,GO:0003774,125 kda kinesin-related
+TR38193|c2_g3_i1,GO:0032550,125 kda kinesin-related
+TR38242|c4_g1_i2,GO:0044238,patatin group a-3-like
+TR38322|c1_g1_i8,GO:0044710,hexose carrier protein hex6-like
+TR38322|c1_g1_i8,GO:0015291,hexose carrier protein hex6-like
+TR38322|c1_g1_i8,GO:0016628,hexose carrier protein hex6-like
+TR38322|c1_g1_i8,GO:0044765,hexose carrier protein hex6-like
+TR38322|c1_g1_i8,GO:0044425,hexose carrier protein hex6-like
+TR38322|c1_g1_i8,GO:0044763,hexose carrier protein hex6-like
+TR38371|c1_g1_i9,GO:0044710,leucine-rich repeat protein kinase family isoform 1
+TR38371|c1_g1_i9,GO:0004672,leucine-rich repeat protein kinase family isoform 1
+TR38371|c1_g1_i9,GO:0016310,leucine-rich repeat protein kinase family isoform 1
+TR38381|c1_g1_i1,GO:0016757,udp-glycosyltransferase superfamily
+TR38482|c5_g2_i2,GO:0008170,phosphoethanolamine n-
+TR38482|c5_g2_i2,GO:0046165,phosphoethanolamine n-
+TR38495|c2_g3_i3,GO:0036094,lrr and nb-arc domains-containing disease resistance
+TR38495|c2_g3_i3,GO:0097159,lrr and nb-arc domains-containing disease resistance
+TR38495|c2_g3_i3,GO:1901363,lrr and nb-arc domains-containing disease resistance
+TR38539|c5_g3_i7,GO:0006464,interleukin-1 receptor-associated kinase-like 2
+TR38539|c5_g3_i7,GO:0004672,interleukin-1 receptor-associated kinase-like 2
+TR38539|c5_g3_i7,GO:0032550,interleukin-1 receptor-associated kinase-like 2
+TR38594|c4_g1_i5,GO:0036094,cc-nbs-lrr resistance
+TR38594|c4_g1_i5,GO:0097159,cc-nbs-lrr resistance
+TR38594|c4_g1_i5,GO:1901363,cc-nbs-lrr resistance
+TR38646|c2_g3_i2,GO:0016757,anthocyanidin 3-o-glucoside 5-o-glucosyltransferase 2-like
+TR38652|c1_g1_i1,GO:0015291,protein transparent testa 12-like
+TR38652|c1_g1_i1,GO:0044425,protein transparent testa 12-like
+TR38652|c1_g1_i1,GO:0015893,protein transparent testa 12-like
+TR38652|c1_g1_i1,GO:0044763,protein transparent testa 12-like
+TR38705|c4_g5_i1,GO:0097159,hypothetical protein VITISV_032980 [Vitis vinifera]
+TR38705|c4_g5_i1,GO:0006259,hypothetical protein VITISV_032980 [Vitis vinifera]
+TR38739|c0_g2_i7,GO:0003824,uncharacterized hydrolase yugf
+TR38770|c0_g1_i1,GO:0006796,receptor protein
+TR38770|c0_g1_i1,GO:0006464,receptor protein
+TR38770|c0_g1_i1,GO:0004672,receptor protein
+TR38770|c0_g1_i1,GO:0016628,receptor protein
+TR38770|c0_g1_i1,GO:0044710,receptor protein
+TR38770|c0_g1_i1,GO:0044425,receptor protein
+TR38770|c0_g1_i1,GO:0032550,receptor protein
+TR38773|c4_g1_i1,GO:0016070,rna-dependent rna polymerase
+TR38773|c4_g1_i1,GO:0016740,rna-dependent rna polymerase
+TR38776|c2_g2_i14,GO:0071704,uncharacterized protein loc103330614
+TR38776|c2_g2_i14,GO:0031977,uncharacterized protein loc103330614
+TR38776|c2_g2_i14,GO:0005488,uncharacterized protein loc103330614
+TR38776|c2_g2_i14,GO:0044763,uncharacterized protein loc103330614
+TR38776|c2_g2_i14,GO:0044710,uncharacterized protein loc103330614
+TR38776|c2_g2_i14,GO:0009536,uncharacterized protein loc103330614
+TR38776|c2_g2_i14,GO:0044237,uncharacterized protein loc103330614
+TR38791|c7_g2_i4,GO:0005488,retrovirus-related pol polyprotein line-1
+TR38804|c4_g2_i5,GO:0044710,protochlorophyllide-dependent translocon component chloroplastic-like
+TR38804|c4_g2_i5,GO:0016703,protochlorophyllide-dependent translocon component chloroplastic-like
+TR38804|c4_g2_i5,GO:0051536,protochlorophyllide-dependent translocon component chloroplastic-like
+TR38804|c4_g2_i5,GO:0043169,protochlorophyllide-dependent translocon component chloroplastic-like
+TR38866|c3_g1_i2,GO:0036094,disease resistance protein
+TR38866|c3_g1_i2,GO:0097159,disease resistance protein
+TR38866|c3_g1_i2,GO:1901363,disease resistance protein
+TR38878|c1_g1_i2,GO:0032550,uncharacterized protein loc102625808 isoform x1
+TR38878|c1_g1_i2,GO:0050794,uncharacterized protein loc102625808 isoform x1
+TR38965|c1_g1_i15,GO:0004721,probable protein phosphatase 2c 38-like
+TR38965|c1_g1_i15,GO:0006464,probable protein phosphatase 2c 38-like
+TR38965|c1_g1_i15,GO:0043169,probable protein phosphatase 2c 38-like
+TR39021|c2_g3_i6,GO:0050794,tmv resistance protein n-like
